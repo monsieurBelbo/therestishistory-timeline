@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Rest Is History — World Timeline</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="top">
+  <div class="brand">
+    <span class="brand-main">The Rest Is History</span>
+    <span class="brand-sub">World timeline · episode by episode</span>
+  </div>
+  <div class="search">
+    <input id="q" type="search" placeholder="Search episodes…  ( / )" autocomplete="off" spellcheck="false">
+    <span id="qcount"></span>
+  </div>
+  <nav id="eras" aria-label="Jump to era">
+    <button data-range="-3100,2030">All</button>
+    <button data-range="-800,500">Antiquity</button>
+    <button data-range="400,1500">Middle Ages</button>
+    <button data-range="1450,1800">Early modern</button>
+    <button data-range="1780,1920">19th c.</button>
+    <button data-range="1895,2030">20th c.</button>
+  </nav>
+  <div class="tools">
+    <button id="btn-thematic" title="Episodes with no single period or place">Thematic <b id="n-thematic"></b></button>
+    <button id="btn-fit" title="Fit all regions in the window / comfortable height" aria-pressed="true">Fit height</button>
+    <button id="btn-legend" aria-expanded="false">Legend</button>
+    <span class="zoom">
+      <button id="btn-out" title="Zoom out (−)" aria-label="Zoom out">−</button>
+      <button id="btn-in" title="Zoom in (+)" aria-label="Zoom in">+</button>
+    </span>
+  </div>
+</header>
+
+<div id="mini-wrap"><canvas id="mini"></canvas></div>
+
+<main>
+  <div id="stage">
+    <canvas id="tl" tabindex="0" aria-label="World history timeline with podcast episodes"></canvas>
+    <div id="tip" hidden></div>
+    <div id="hint">Scroll to zoom · drag to pan · click a marker to open the episode</div>
+    <div id="legend" hidden></div>
+  </div>
+  <aside id="panel" hidden>
+    <button id="panel-close" aria-label="Close panel">×</button>
+    <div id="panel-body"></div>
+  </aside>
+</main>
+
+<footer id="player" hidden>
+  <div class="now">
+    <span class="now-k">Now playing</span>
+    <button id="now-title" title="Show on timeline"></button>
+  </div>
+  <audio id="audio" controls preload="none"></audio>
+  <button id="player-close" aria-label="Close player">×</button>
+</footer>
+
+<script src="data/civs.js"></script>
+<script src="data/episodes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

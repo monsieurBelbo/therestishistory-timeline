@@ -1,0 +1,740 @@
+{"i":0,"s":-800,"e":2020,"lane":"global","series":null,"topic":"Podcast trailer","thematic":true,"conf":"h"}
+{"i":1,"s":-330,"e":2020,"lane":"global","series":null,"topic":"Greatness in history","thematic":true,"conf":"h"}
+{"i":2,"s":-49,"e":1995,"lane":"global","series":null,"topic":"Causes of civil war","thematic":true,"conf":"h"}
+{"i":3,"s":-49,"e":2020,"lane":"n-america","series":null,"topic":"Trump, Caesar and Nixon","thematic":true,"conf":"m"}
+{"i":4,"s":1603,"e":1660,"lane":"british-isles","series":null,"topic":"2020 as the 17th century","thematic":true,"conf":"m"}
+{"i":5,"s":1981,"e":1981,"lane":"british-isles","series":null,"topic":"Britain in 1981","thematic":false,"conf":"h"}
+{"i":6,"s":-1180,"e":-1180,"lane":"mideast","series":null,"topic":"Trojan War","thematic":false,"conf":"h"}
+{"i":7,"s":-500,"e":2020,"lane":"global","series":null,"topic":"Lessons of history","thematic":true,"conf":"h"}
+{"i":8,"s":1450,"e":2020,"lane":"global","series":null,"topic":"Media tech and social media","thematic":true,"conf":"h"}
+{"i":9,"s":1900,"e":1914,"lane":"global","series":null,"topic":"Causes of WWI","thematic":false,"conf":"h"}
+{"i":10,"s":300,"e":2020,"lane":"british-isles","series":null,"topic":"History of Christmas","thematic":false,"conf":"m"}
+{"i":11,"s":2016,"e":2020,"lane":"british-isles","series":null,"topic":"Brexit historical parallels","thematic":false,"conf":"m"}
+{"i":12,"s":1605,"e":2020,"lane":"global","series":null,"topic":"Conspiracy theories","thematic":true,"conf":"h"}
+{"i":13,"s":-1200,"e":-800,"lane":"s-europe","series":null,"topic":"Greek myths with Stephen Fry","thematic":false,"conf":"m"}
+{"i":14,"s":-500,"e":2020,"lane":"global","series":null,"topic":"Historical fiction","thematic":true,"conf":"h"}
+{"i":15,"s":-200,"e":1989,"lane":"global","series":null,"topic":"Walls and borders","thematic":true,"conf":"h"}
+{"i":16,"s":79,"e":79,"lane":"s-europe","series":null,"topic":"Pompeii","thematic":false,"conf":"h"}
+{"i":17,"s":1919,"e":1945,"lane":"s-europe","series":null,"topic":"Fascism","thematic":false,"conf":"m"}
+{"i":18,"s":400,"e":2020,"lane":"british-isles","series":null,"topic":"England's north-south divide","thematic":false,"conf":"m"}
+{"i":19,"s":450,"e":1500,"lane":"british-isles","series":null,"topic":"King Arthur legend","thematic":false,"conf":"m"}
+{"i":20,"s":-2000,"e":1976,"lane":"e-asia","series":null,"topic":"Chinese history with Michael Wood","thematic":false,"conf":"h"}
+{"i":21,"s":-500,"e":2020,"lane":"global","series":null,"topic":"History of the future","thematic":true,"conf":"h"}
+{"i":22,"s":-500,"e":2000,"lane":"global","series":null,"topic":"Top ten weird wars","thematic":true,"conf":"h"}
+{"i":23,"s":1990,"e":1999,"lane":"british-isles","series":null,"topic":"The 1990s","thematic":false,"conf":"h"}
+{"i":24,"s":1700,"e":1900,"lane":"british-isles","series":null,"topic":"Sex in Georgian and Victorian cities","thematic":false,"conf":"h"}
+{"i":25,"s":-550,"e":2020,"lane":"global","series":null,"topic":"Empires","thematic":true,"conf":"h"}
+{"i":26,"s":1450,"e":1700,"lane":"british-isles","series":null,"topic":"Witches and witch hunts","thematic":false,"conf":"m"}
+{"i":27,"s":-1353,"e":-1323,"lane":"n-africa","series":null,"topic":"Tutankhamun and Akhenaten","thematic":false,"conf":"h"}
+{"i":28,"s":-500,"e":2020,"lane":"global","series":null,"topic":"History of comedy","thematic":true,"conf":"h"}
+{"i":29,"s":1900,"e":2020,"lane":"global","series":null,"topic":"Americanisation","thematic":false,"conf":"m"}
+{"i":30,"s":2021,"e":2021,"lane":"british-isles","series":null,"topic":"Harry and Meghan royal row","thematic":false,"conf":"h"}
+{"i":31,"s":1871,"e":1918,"lane":"c-n-europe","series":null,"topic":"German Second Reich","thematic":false,"conf":"h"}
+{"i":32,"s":-500,"e":2020,"lane":"global","series":null,"topic":"Counterfactual history","thematic":true,"conf":"h"}
+{"i":33,"s":1863,"e":2020,"lane":"british-isles","series":null,"topic":"History of football","thematic":false,"conf":"h"}
+{"i":34,"s":634,"e":687,"lane":"british-isles","series":null,"topic":"St Cuthbert","thematic":false,"conf":"h"}
+{"i":35,"s":1721,"e":2020,"lane":"british-isles","series":"Prime Ministers' World Cup","topic":"Best British Prime Minister","thematic":false,"conf":"h"}
+{"i":36,"s":1721,"e":2020,"lane":"british-isles","series":"Prime Ministers' World Cup","topic":"Greatest PM vote results","thematic":false,"conf":"h"}
+{"i":37,"s":-500,"e":2020,"lane":"global","series":null,"topic":"History of espionage","thematic":true,"conf":"h"}
+{"i":38,"s":1848,"e":1991,"lane":"global","series":null,"topic":"Communism","thematic":false,"conf":"h"}
+{"i":39,"s":1558,"e":1603,"lane":"british-isles","series":null,"topic":"Elizabeth I","thematic":false,"conf":"h"}
+{"i":40,"s":1900,"e":2020,"lane":"global","series":null,"topic":"History in games","thematic":true,"conf":"h"}
+{"i":41,"s":-550,"e":2000,"lane":"mideast","series":null,"topic":"History of Persia","thematic":false,"conf":"h"}
+{"i":42,"s":1865,"e":1900,"lane":"n-america","series":null,"topic":"The Wild West","thematic":false,"conf":"h"}
+{"i":43,"s":1940,"e":1940,"lane":"w-europe","series":null,"topic":"1940 Dunkirk and fall of France","thematic":false,"conf":"h"}
+{"i":44,"s":1066,"e":1066,"lane":"british-isles","series":null,"topic":"Norman Conquest 1066","thematic":false,"conf":"h"}
+{"i":45,"s":-500,"e":1900,"lane":"global","series":null,"topic":"Top ten eunuchs","thematic":true,"conf":"h"}
+{"i":46,"s":-100,"e":1970,"lane":"global","series":null,"topic":"Culture wars","thematic":true,"conf":"h"}
+{"i":47,"s":1756,"e":1763,"lane":"global","series":null,"topic":"Seven Years' War","thematic":false,"conf":"h"}
+{"i":48,"s":1789,"e":1799,"lane":"w-europe","series":null,"topic":"French Revolution","thematic":false,"conf":"h"}
+{"i":49,"s":1000,"e":2020,"lane":"british-isles","series":null,"topic":"History of British food","thematic":false,"conf":"m"}
+{"i":50,"s":1944,"e":1970,"lane":"n-america","series":null,"topic":"Rise of the teenager","thematic":false,"conf":"m"}
+{"i":51,"s":1325,"e":1600,"lane":"mesoamerica","series":null,"topic":"Aztecs and Fifth Sun","thematic":false,"conf":"h"}
+{"i":52,"s":1455,"e":1487,"lane":"british-isles","series":null,"topic":"Game of Thrones and Wars of Roses","thematic":true,"conf":"m"}
+{"i":53,"s":1649,"e":1660,"lane":"british-isles","series":null,"topic":"Cromwell's Protectorate","thematic":false,"conf":"h"}
+{"i":54,"s":-3000,"e":2000,"lane":"global","series":"World Cup of Gods","topic":"World Cup of Gods preview","thematic":true,"conf":"h"}
+{"i":55,"s":54,"e":68,"lane":"s-europe","series":null,"topic":"Nero","thematic":false,"conf":"h"}
+{"i":56,"s":-250,"e":2020,"lane":"w-europe","series":null,"topic":"History of Paris","thematic":false,"conf":"h"}
+{"i":57,"s":-3000,"e":2000,"lane":"global","series":"World Cup of Gods","topic":"World Cup of Gods groups","thematic":true,"conf":"h"}
+{"i":58,"s":-3000,"e":2000,"lane":"global","series":"World Cup of Gods","topic":"World Cup of Gods knockouts","thematic":true,"conf":"h"}
+{"i":59,"s":570,"e":632,"lane":"mideast","series":null,"topic":"Muhammad","thematic":false,"conf":"h"}
+{"i":60,"s":1769,"e":2020,"lane":"n-america","series":null,"topic":"History of California","thematic":false,"conf":"h"}
+{"i":61,"s":1199,"e":1215,"lane":"british-isles","series":null,"topic":"Magna Carta and King John","thematic":false,"conf":"h"}
+{"i":62,"s":1889,"e":1933,"lane":"c-n-europe","series":"Hitler with Ian Kershaw","topic":"Hitler's rise to power","thematic":false,"conf":"h"}
+{"i":63,"s":1933,"e":1945,"lane":"c-n-europe","series":"Hitler with Ian Kershaw","topic":"Hitler in power and war","thematic":false,"conf":"h"}
+{"i":64,"s":1975,"e":1979,"lane":"british-isles","series":null,"topic":"Jeremy Thorpe scandal","thematic":false,"conf":"h"}
+{"i":65,"s":1600,"e":2000,"lane":"british-isles","series":null,"topic":"History of ghosts","thematic":true,"conf":"m"}
+{"i":66,"s":1700,"e":2020,"lane":"c-n-europe","series":null,"topic":"Anglo-German relations","thematic":false,"conf":"m"}
+{"i":67,"s":1600,"e":1997,"lane":"global","series":null,"topic":"British Empire and legacy","thematic":false,"conf":"h"}
+{"i":68,"s":1853,"e":1856,"lane":"e-europe","series":null,"topic":"England-Ukraine, Crimean War","thematic":false,"conf":"m"}
+{"i":69,"s":-500,"e":2020,"lane":"global","series":null,"topic":"Writing children's history","thematic":true,"conf":"h"}
+{"i":70,"s":800,"e":1807,"lane":"c-n-europe","series":null,"topic":"Anglo-Danish history","thematic":false,"conf":"m"}
+{"i":71,"s":1945,"e":1975,"lane":"se-asia-oceania","series":null,"topic":"Vietnam War","thematic":false,"conf":"h"}
+{"i":72,"s":-50,"e":2021,"lane":"s-europe","series":null,"topic":"Italy and England history","thematic":false,"conf":"m"}
+{"i":73,"s":1509,"e":1547,"lane":"british-isles","series":null,"topic":"Six wives of Henry VIII","thematic":false,"conf":"h"}
+{"i":74,"s":1740,"e":1800,"lane":"s-asia","series":null,"topic":"East India Company","thematic":false,"conf":"h"}
+{"i":75,"s":1805,"e":1900,"lane":"british-isles","series":"Statues of London","topic":"Trafalgar Square statues","thematic":false,"conf":"m"}
+{"i":76,"s":1600,"e":1950,"lane":"british-isles","series":"Statues of London","topic":"Whitehall statues","thematic":false,"conf":"m"}
+{"i":77,"s":1800,"e":1990,"lane":"british-isles","series":"Statues of London","topic":"Parliament Square statues","thematic":false,"conf":"m"}
+{"i":78,"s":-776,"e":393,"lane":"s-europe","series":null,"topic":"Ancient Olympics","thematic":false,"conf":"h"}
+{"i":79,"s":1896,"e":1939,"lane":"global","series":"Modern Olympics","topic":"Modern Olympics to WWII","thematic":false,"conf":"h"}
+{"i":80,"s":1945,"e":2021,"lane":"global","series":"Modern Olympics","topic":"Olympics postwar to present","thematic":false,"conf":"h"}
+{"i":81,"s":-800,"e":-371,"lane":"s-europe","series":null,"topic":"Sparta","thematic":false,"conf":"h"}
+{"i":82,"s":1961,"e":1989,"lane":"c-n-europe","series":null,"topic":"Berlin Wall","thematic":false,"conf":"h"}
+{"i":83,"s":1850,"e":2020,"lane":"british-isles","series":null,"topic":"History of exams","thematic":false,"conf":"m"}
+{"i":84,"s":1887,"e":1927,"lane":"british-isles","series":null,"topic":"Sherlock Holmes","thematic":false,"conf":"h"}
+{"i":85,"s":1685,"e":1789,"lane":"w-europe","series":null,"topic":"The Enlightenment","thematic":false,"conf":"h"}
+{"i":86,"s":1800,"e":1919,"lane":"s-asia","series":"Afghanistan","topic":"Afghanistan and the Great Game","thematic":false,"conf":"m"}
+{"i":87,"s":1839,"e":1842,"lane":"s-asia","series":"Afghanistan","topic":"First Anglo-Afghan War","thematic":false,"conf":"h"}
+{"i":88,"s":-10000,"e":1979,"lane":"global","series":null,"topic":"Weather and climate in history","thematic":true,"conf":"h"}
+{"i":89,"s":1914,"e":1918,"lane":"w-europe","series":null,"topic":"WWI Western Front","thematic":false,"conf":"h"}
+{"i":90,"s":1957,"e":1970,"lane":"british-isles","series":null,"topic":"The Beatles","thematic":false,"conf":"h"}
+{"i":91,"s":1945,"e":1983,"lane":"global","series":null,"topic":"Nuclear weapons, 1983 war scare","thematic":false,"conf":"m"}
+{"i":92,"s":1960,"e":1995,"lane":"n-america","series":"Silicon Valley","topic":"Rise of the internet","thematic":false,"conf":"h"}
+{"i":93,"s":1995,"e":2020,"lane":"n-america","series":"Silicon Valley","topic":"Social media and populism","thematic":false,"conf":"h"}
+{"i":94,"s":2001,"e":2001,"lane":"n-america","series":null,"topic":"September 11 attacks","thematic":false,"conf":"h"}
+{"i":95,"s":600,"e":2000,"lane":"british-isles","series":null,"topic":"UK's best churches","thematic":true,"conf":"h"}
+{"i":96,"s":-500,"e":1900,"lane":"global","series":null,"topic":"Top ten mistresses","thematic":true,"conf":"h"}
+{"i":97,"s":-480,"e":-480,"lane":"s-europe","series":"Thermopylae & Salamis","topic":"Thermopylae and Salamis","thematic":false,"conf":"h"}
+{"i":98,"s":-480,"e":-480,"lane":"s-europe","series":"Thermopylae & Salamis","topic":"Thermopylae and Salamis","thematic":false,"conf":"h"}
+{"i":99,"s":1945,"e":1975,"lane":"sub-africa","series":null,"topic":"Decolonising Africa","thematic":false,"conf":"h"}
+{"i":100,"s":1953,"e":2021,"lane":"british-isles","series":null,"topic":"James Bond history","thematic":false,"conf":"h"}
+{"i":101,"s":1949,"e":2021,"lane":"c-n-europe","series":null,"topic":"German chancellors Adenauer to Merkel","thematic":false,"conf":"h"}
+{"i":102,"s":793,"e":1300,"lane":"c-n-europe","series":null,"topic":"Norse sagas and Vikings","thematic":false,"conf":"h"}
+{"i":103,"s":1040,"e":1057,"lane":"british-isles","series":null,"topic":"Macbeth, king of Scotland","thematic":false,"conf":"h"}
+{"i":104,"s":-500,"e":2020,"lane":"s-europe","series":null,"topic":"Legacy of the Classics","thematic":false,"conf":"m"}
+{"i":105,"s":1913,"e":1972,"lane":"n-america","series":"Watergate","topic":"Nixon's rise to Watergate","thematic":false,"conf":"h"}
+{"i":106,"s":1972,"e":1974,"lane":"n-america","series":"Watergate","topic":"Watergate scandal unravels","thematic":false,"conf":"h"}
+{"i":107,"s":1760,"e":1840,"lane":"british-isles","series":null,"topic":"Industrial Revolution","thematic":false,"conf":"h"}
+{"i":108,"s":1820,"e":2020,"lane":"global","series":null,"topic":"Dinosaurs in culture","thematic":true,"conf":"m"}
+{"i":109,"s":-2600,"e":2020,"lane":"s-asia","series":null,"topic":"India's history in buildings","thematic":false,"conf":"h"}
+{"i":110,"s":-500,"e":2000,"lane":"global","series":null,"topic":"Golden ages","thematic":true,"conf":"h"}
+{"i":111,"s":500,"e":1500,"lane":"global","series":null,"topic":"Medieval science","thematic":false,"conf":"m"}
+{"i":112,"s":1900,"e":2000,"lane":"british-isles","series":"Paganism","topic":"Modern paganism and Wicca","thematic":false,"conf":"m"}
+{"i":113,"s":-3000,"e":1700,"lane":"british-isles","series":"Paganism","topic":"Ancient pagan origins","thematic":false,"conf":"m"}
+{"i":114,"s":1605,"e":1605,"lane":"british-isles","series":null,"topic":"Gunpowder Plot","thematic":false,"conf":"h"}
+{"i":115,"s":-356,"e":-331,"lane":"s-europe","series":"Alexander the Great","topic":"Alexander's rise to Siwa","thematic":false,"conf":"h"}
+{"i":116,"s":-331,"e":-323,"lane":"mideast","series":"Alexander the Great","topic":"Alexander's eastern campaigns","thematic":false,"conf":"h"}
+{"i":117,"s":1918,"e":1920,"lane":"w-europe","series":null,"topic":"WWI armistice and remembrance","thematic":false,"conf":"h"}
+{"i":118,"s":871,"e":2022,"lane":"british-isles","series":"World Cup of Kings and Queens","topic":"Greatest English monarch poll","thematic":true,"conf":"h"}
+{"i":119,"s":1973,"e":1973,"lane":"mideast","series":null,"topic":"1973 oil embargo","thematic":false,"conf":"h"}
+{"i":120,"s":-50000,"e":1770,"lane":"se-asia-oceania","series":null,"topic":"Australia before Cook","thematic":false,"conf":"h"}
+{"i":121,"s":924,"e":939,"lane":"british-isles","series":"World Cup of Kings and Queens","topic":"King Athelstan","thematic":false,"conf":"h"}
+{"i":122,"s":871,"e":2022,"lane":"british-isles","series":"World Cup of Kings and Queens","topic":"Early-round English monarchs","thematic":true,"conf":"h"}
+{"i":123,"s":871,"e":2022,"lane":"british-isles","series":"World Cup of Kings and Queens","topic":"Late-round English monarchs","thematic":true,"conf":"h"}
+{"i":124,"s":1947,"e":2020,"lane":"n-america","series":null,"topic":"The CIA","thematic":false,"conf":"h"}
+{"i":125,"s":1798,"e":1801,"lane":"n-africa","series":null,"topic":"Napoleon in Egypt","thematic":false,"conf":"h"}
+{"i":126,"s":-400000,"e":-40000,"lane":"global","series":null,"topic":"Neanderthals","thematic":false,"conf":"h"}
+{"i":127,"s":1869,"e":1916,"lane":"e-europe","series":null,"topic":"Rasputin","thematic":false,"conf":"h"}
+{"i":128,"s":1600,"e":2020,"lane":"british-isles","series":null,"topic":"History of cricket","thematic":false,"conf":"h"}
+{"i":129,"s":1938,"e":2020,"lane":"n-america","series":null,"topic":"Superheroes in culture","thematic":false,"conf":"m"}
+{"i":130,"s":880,"e":1477,"lane":"w-europe","series":null,"topic":"Burgundy","thematic":false,"conf":"h"}
+{"i":131,"s":1843,"e":1843,"lane":"british-isles","series":null,"topic":"A Christmas Carol","thematic":false,"conf":"h"}
+{"i":132,"s":600,"e":2000,"lane":"british-isles","series":null,"topic":"Christmas churches","thematic":true,"conf":"h"}
+{"i":133,"s":800,"e":1991,"lane":"global","series":"12 Days of Christmas","topic":"Charlemagne and Soviet collapse","thematic":true,"conf":"h"}
+{"i":134,"s":935,"e":1871,"lane":"e-europe","series":"12 Days of Christmas","topic":"Wenceslas and Gilbert & Sullivan","thematic":true,"conf":"h"}
+{"i":135,"s":1703,"e":1836,"lane":"british-isles","series":"12 Days of Christmas","topic":"Port wine and Darwin's voyage","thematic":true,"conf":"m"}
+{"i":136,"s":-4,"e":1879,"lane":"british-isles","series":"12 Days of Christmas","topic":"Herod's massacre and Tay Bridge","thematic":true,"conf":"h"}
+{"i":137,"s":1170,"e":1890,"lane":"british-isles","series":"12 Days of Christmas","topic":"Becket and Wounded Knee","thematic":true,"conf":"h"}
+{"i":138,"s":1460,"e":1922,"lane":"british-isles","series":"12 Days of Christmas","topic":"Wakefield and Emperor Karl I","thematic":true,"conf":"h"}
+{"i":139,"s":1918,"e":1979,"lane":"sub-africa","series":"12 Days of Christmas","topic":"Bokassa and pandemic memory","thematic":true,"conf":"m"}
+{"i":140,"s":68,"e":1071,"lane":"s-europe","series":"12 Days of Christmas","topic":"Year of Four Emperors, Byzantium","thematic":true,"conf":"m"}
+{"i":141,"s":1492,"e":1893,"lane":"w-europe","series":"12 Days of Christmas","topic":"Granada reconquest and Hawaii","thematic":true,"conf":"m"}
+{"i":142,"s":1521,"e":1892,"lane":"c-n-europe","series":"12 Days of Christmas","topic":"Luther excommunication and Tolkien","thematic":true,"conf":"m"}
+{"i":143,"s":1841,"e":1960,"lane":"n-america","series":"12 Days of Christmas","topic":"Solomon Northup and Camus","thematic":true,"conf":"m"}
+{"i":144,"s":1066,"e":1906,"lane":"british-isles","series":"12 Days of Christmas","topic":"Edward Confessor and Dreyfus","thematic":true,"conf":"m"}
+{"i":145,"s":878,"e":1661,"lane":"british-isles","series":"12 Days of Christmas","topic":"Alfred and Pepys' fanatics","thematic":true,"conf":"m"}
+{"i":146,"s":-100,"e":-49,"lane":"s-europe","series":"Crossing the Rubicon","topic":"Rise of Julius Caesar","thematic":false,"conf":"h"}
+{"i":147,"s":-49,"e":-45,"lane":"s-europe","series":"Crossing the Rubicon","topic":"Caesar crosses the Rubicon","thematic":false,"conf":"h"}
+{"i":148,"s":1922,"e":1922,"lane":"global","series":"1922: The Birth of the Modern World","topic":"1922 modernism, fascism, Bolshevism","thematic":false,"conf":"h"}
+{"i":149,"s":1922,"e":1922,"lane":"british-isles","series":"1922: The Birth of the Modern World","topic":"1922 Irish Civil War, BBC, Tutmania","thematic":false,"conf":"h"}
+{"i":150,"s":1461,"e":1483,"lane":"british-isles","series":"The Princes in the Tower","topic":"Edward IV and Clarence","thematic":false,"conf":"h"}
+{"i":151,"s":1483,"e":1485,"lane":"british-isles","series":"The Princes in the Tower","topic":"Richard III and the princes","thematic":false,"conf":"h"}
+{"i":152,"s":1800,"e":1850,"lane":"british-isles","series":null,"topic":"Birth of the railways","thematic":false,"conf":"m"}
+{"i":153,"s":1833,"e":1885,"lane":"n-africa","series":"General Gordon","topic":"General Gordon's life","thematic":false,"conf":"h"}
+{"i":154,"s":1884,"e":1885,"lane":"n-africa","series":"General Gordon","topic":"Siege of Khartoum","thematic":false,"conf":"h"}
+{"i":155,"s":1648,"e":1649,"lane":"british-isles","series":"The Trial of Charles I","topic":"Trial of Charles I","thematic":false,"conf":"h"}
+{"i":156,"s":1649,"e":1660,"lane":"british-isles","series":"The Trial of Charles I","topic":"Execution of Charles I, aftermath","thematic":false,"conf":"h"}
+{"i":157,"s":-626,"e":-331,"lane":"mideast","series":null,"topic":"Babylon from Nebuchadnezzar","thematic":false,"conf":"m"}
+{"i":158,"s":-10000,"e":1900,"lane":"global","series":"Disease and civilisation","topic":"Disease and rise of civilisation","thematic":false,"conf":"m"}
+{"i":159,"s":1492,"e":2020,"lane":"global","series":"Disease and civilisation","topic":"Disease, New World, pandemics","thematic":false,"conf":"m"}
+{"i":160,"s":800,"e":1000,"lane":"e-europe","series":"Vikings in the East","topic":"Vikings in Eastern Europe","thematic":false,"conf":"h"}
+{"i":161,"s":850,"e":1050,"lane":"e-europe","series":"Vikings in the East","topic":"Birth of Russia, Rus","thematic":false,"conf":"h"}
+{"i":162,"s":1700,"e":1800,"lane":"british-isles","series":null,"topic":"Smuggling in Britain","thematic":false,"conf":"m"}
+{"i":163,"s":270,"e":1929,"lane":"global","series":null,"topic":"History of Valentine's Day","thematic":true,"conf":"m"}
+{"i":164,"s":1776,"e":2003,"lane":"n-america","series":"American religion and empire","topic":"Religion in American war and diplomacy","thematic":false,"conf":"m"}
+{"i":165,"s":1900,"e":2022,"lane":"n-america","series":"American religion and empire","topic":"God and the American empire","thematic":false,"conf":"m"}
+{"i":166,"s":-500,"e":2020,"lane":"global","series":null,"topic":"Most disastrous parties in history","thematic":true,"conf":"h"}
+{"i":167,"s":850,"e":2022,"lane":"e-europe","series":null,"topic":"Ukraine and Russia history","thematic":false,"conf":"h"}
+{"i":168,"s":235,"e":476,"lane":"s-europe","series":"Fall of Rome","topic":"Decline and fall of Rome","thematic":false,"conf":"h"}
+{"i":169,"s":476,"e":1453,"lane":"s-europe","series":"Fall of Rome","topic":"Byzantium and Rome's afterlife","thematic":false,"conf":"m"}
+{"i":170,"s":1700,"e":1900,"lane":"british-isles","series":null,"topic":"Deadly fashion history","thematic":true,"conf":"m"}
+{"i":171,"s":1964,"e":1985,"lane":"e-europe","series":"Soviet Union, Russia and Putin","topic":"Brezhnev era, young Putin","thematic":false,"conf":"h"}
+{"i":172,"s":1987,"e":1991,"lane":"e-europe","series":"Soviet Union, Russia and Putin","topic":"Fall of the Soviet Union","thematic":false,"conf":"h"}
+{"i":173,"s":1991,"e":1999,"lane":"e-europe","series":"Soviet Union, Russia and Putin","topic":"Yeltsin, 1990s chaos, Putin","thematic":false,"conf":"h"}
+{"i":174,"s":1999,"e":2012,"lane":"e-europe","series":"Soviet Union, Russia and Putin","topic":"Putin's rise to power","thematic":false,"conf":"h"}
+{"i":175,"s":1861,"e":1867,"lane":"mesoamerica","series":null,"topic":"Maximilian, Emperor of Mexico","thematic":false,"conf":"h"}
+{"i":176,"s":400,"e":461,"lane":"british-isles","series":null,"topic":"Saint Patrick","thematic":false,"conf":"h"}
+{"i":177,"s":1162,"e":1206,"lane":"c-asia","series":"Genghis Khan","topic":"Temujin's rise","thematic":false,"conf":"h"}
+{"i":178,"s":1206,"e":1227,"lane":"c-asia","series":"Genghis Khan","topic":"Genghis Khan, Mongol ruler","thematic":false,"conf":"h"}
+{"i":179,"s":1859,"e":1973,"lane":"global","series":"Oil","topic":"Oil and the modern world","thematic":false,"conf":"m"}
+{"i":180,"s":1973,"e":2022,"lane":"global","series":"Oil","topic":"Oil, conflict, climate change","thematic":false,"conf":"m"}
+{"i":181,"s":1833,"e":1982,"lane":"s-america","series":"The Falklands War","topic":"Falklands origins, Argentine invasion","thematic":false,"conf":"h"}
+{"i":182,"s":1982,"e":1982,"lane":"s-america","series":"The Falklands War","topic":"Task Force sails","thematic":false,"conf":"h"}
+{"i":183,"s":1982,"e":1982,"lane":"s-america","series":"The Falklands War","topic":"Belgrano, landings, battle","thematic":false,"conf":"h"}
+{"i":184,"s":1982,"e":2022,"lane":"s-america","series":"The Falklands War","topic":"Falklands legacy","thematic":false,"conf":"h"}
+{"i":185,"s":1966,"e":1976,"lane":"e-asia","series":null,"topic":"Mao's Cultural Revolution","thematic":false,"conf":"h"}
+{"i":186,"s":1100,"e":2000,"lane":"british-isles","series":null,"topic":"Magic and occult politics Britain","thematic":false,"conf":"m"}
+{"i":187,"s":-500,"e":33,"lane":"mideast","series":"Jews against Rome","topic":"Crucifixion history","thematic":false,"conf":"m"}
+{"i":188,"s":6,"e":66,"lane":"mideast","series":"Jews against Rome","topic":"Judea under Rome, road to revolt","thematic":false,"conf":"h"}
+{"i":189,"s":66,"e":73,"lane":"mideast","series":"Jews against Rome","topic":"Jewish Revolt, Temple, Masada","thematic":false,"conf":"h"}
+{"i":190,"s":1958,"e":1981,"lane":"w-europe","series":"French Presidents","topic":"De Gaulle to Giscard","thematic":false,"conf":"h"}
+{"i":191,"s":1981,"e":2022,"lane":"w-europe","series":"French Presidents","topic":"Mitterrand to Macron","thematic":false,"conf":"h"}
+{"i":192,"s":1900,"e":2020,"lane":"british-isles","series":null,"topic":"England and Englishness","thematic":false,"conf":"m"}
+{"i":193,"s":-1894,"e":-626,"lane":"mideast","series":null,"topic":"Early Babylon and Assyria","thematic":false,"conf":"h"}
+{"i":194,"s":1941,"e":1941,"lane":"e-europe","series":null,"topic":"Operation Barbarossa","thematic":false,"conf":"h"}
+{"i":195,"s":-500,"e":2000,"lane":"global","series":"History's Biggest Questions","topic":"Big history questions with Dan Carlin","thematic":true,"conf":"h"}
+{"i":196,"s":-500,"e":2000,"lane":"global","series":"History's Biggest Questions","topic":"Big history questions with Dan Carlin","thematic":true,"conf":"h"}
+{"i":197,"s":1890,"e":1976,"lane":"british-isles","series":null,"topic":"Agatha Christie","thematic":false,"conf":"h"}
+{"i":198,"s":1952,"e":2022,"lane":"british-isles","series":null,"topic":"Elizabethan age culture","thematic":false,"conf":"h"}
+{"i":199,"s":1901,"e":1966,"lane":"se-asia-oceania","series":"Australian Prime Ministers","topic":"Barton to Menzies","thematic":false,"conf":"h"}
+{"i":200,"s":1966,"e":1983,"lane":"se-asia-oceania","series":"Australian Prime Ministers","topic":"Holt to Fraser","thematic":false,"conf":"h"}
+{"i":201,"s":1983,"e":2022,"lane":"se-asia-oceania","series":"Australian Prime Ministers","topic":"Hawke to Morrison","thematic":false,"conf":"h"}
+{"i":202,"s":1809,"e":2022,"lane":"british-isles","series":null,"topic":"British royal jubilees","thematic":false,"conf":"h"}
+{"i":203,"s":1500,"e":1800,"lane":"british-isles","series":null,"topic":"History of childbirth","thematic":false,"conf":"l"}
+{"i":204,"s":1200,"e":1500,"lane":"british-isles","series":null,"topic":"Robin Hood legend","thematic":false,"conf":"m"}
+{"i":205,"s":1916,"e":2022,"lane":"british-isles","series":null,"topic":"Prime Ministers brought down","thematic":false,"conf":"m"}
+{"i":206,"s":1863,"e":1938,"lane":"s-europe","series":null,"topic":"Gabriele D'Annunzio","thematic":false,"conf":"h"}
+{"i":207,"s":-69,"e":-48,"lane":"n-africa","series":"Cleopatra","topic":"Young Cleopatra","thematic":false,"conf":"h"}
+{"i":208,"s":-48,"e":-44,"lane":"n-africa","series":"Cleopatra","topic":"Caesar and Cleopatra","thematic":false,"conf":"h"}
+{"i":209,"s":-44,"e":-34,"lane":"n-africa","series":"Cleopatra","topic":"Antony and Cleopatra","thematic":false,"conf":"h"}
+{"i":210,"s":-33,"e":-30,"lane":"n-africa","series":"Cleopatra","topic":"Actium and Cleopatra's fall","thematic":false,"conf":"h"}
+{"i":211,"s":-3000,"e":-1500,"lane":"british-isles","series":null,"topic":"Stonehenge","thematic":false,"conf":"h"}
+{"i":212,"s":1776,"e":1861,"lane":"n-america","series":"American Civil War","topic":"Causes of Civil War","thematic":false,"conf":"h"}
+{"i":213,"s":1860,"e":1862,"lane":"n-america","series":"American Civil War","topic":"Outbreak of Civil War","thematic":false,"conf":"h"}
+{"i":214,"s":1863,"e":1863,"lane":"n-america","series":"American Civil War","topic":"Gettysburg and Address","thematic":false,"conf":"h"}
+{"i":215,"s":1864,"e":1900,"lane":"n-america","series":"American Civil War","topic":"End of war, Lincoln assassination, legacy","thematic":false,"conf":"h"}
+{"i":216,"s":1861,"e":1939,"lane":"n-america","series":null,"topic":"Gone with the Wind, Lost Cause","thematic":false,"conf":"m"}
+{"i":217,"s":2022,"e":2022,"lane":"british-isles","series":null,"topic":"Boris Johnson resigns","thematic":false,"conf":"h"}
+{"i":218,"s":-500,"e":2000,"lane":"global","series":"Historical Love Island","topic":"Historical Love Island","thematic":true,"conf":"h"}
+{"i":219,"s":-500,"e":2000,"lane":"global","series":"Historical Love Island","topic":"Historical Love Island winner","thematic":true,"conf":"h"}
+{"i":220,"s":1903,"e":1950,"lane":"british-isles","series":null,"topic":"George Orwell","thematic":false,"conf":"h"}
+{"i":221,"s":43,"e":410,"lane":"british-isles","series":"London Week","topic":"Roman Londinium","thematic":false,"conf":"h"}
+{"i":222,"s":43,"e":2022,"lane":"british-isles","series":"London Week","topic":"London places","thematic":true,"conf":"m"}
+{"i":223,"s":43,"e":2022,"lane":"british-isles","series":"London Week","topic":"London people","thematic":true,"conf":"m"}
+{"i":224,"s":43,"e":2022,"lane":"british-isles","series":"London Week","topic":"Haunted London","thematic":true,"conf":"m"}
+{"i":225,"s":43,"e":2022,"lane":"british-isles","series":"London Week","topic":"London moments","thematic":true,"conf":"m"}
+{"i":226,"s":1942,"e":1943,"lane":"e-europe","series":"Battle of Stalingrad","topic":"Stalingrad build-up, outbreak","thematic":false,"conf":"h"}
+{"i":227,"s":1942,"e":1943,"lane":"e-europe","series":"Battle of Stalingrad","topic":"Stalingrad climax, Red Army","thematic":false,"conf":"h"}
+{"i":228,"s":1870,"e":1945,"lane":"global","series":null,"topic":"Military pigeons","thematic":true,"conf":"m"}
+{"i":229,"s":165,"e":541,"lane":"s-europe","series":null,"topic":"Plague and Roman decline","thematic":false,"conf":"h"}
+{"i":230,"s":476,"e":527,"lane":"s-europe","series":"Justinian and Theodora","topic":"Theodora, Constantinople, Rome's fall","thematic":false,"conf":"m"}
+{"i":231,"s":527,"e":532,"lane":"s-europe","series":"Justinian and Theodora","topic":"Nika riots, Justinian","thematic":false,"conf":"h"}
+{"i":232,"s":533,"e":565,"lane":"s-europe","series":"Justinian and Theodora","topic":"Reconquest of Italy, Justinianic plague","thematic":false,"conf":"h"}
+{"i":233,"s":1700,"e":1830,"lane":"s-europe","series":"Holidays","topic":"Grand Tour, Byron","thematic":false,"conf":"m"}
+{"i":234,"s":1840,"e":1900,"lane":"british-isles","series":"Holidays","topic":"Victorian holidays, Thomas Cook","thematic":false,"conf":"h"}
+{"i":235,"s":1919,"e":1980,"lane":"british-isles","series":"Holidays","topic":"Mass tourism, Butlin's, Benidorm","thematic":false,"conf":"m"}
+{"i":236,"s":-100,"e":300,"lane":"s-europe","series":"Holidays","topic":"Roman holidays","thematic":false,"conf":"m"}
+{"i":237,"s":1892,"e":1920,"lane":"british-isles","series":"Tolkien","topic":"Tolkien's early life","thematic":false,"conf":"h"}
+{"i":238,"s":1937,"e":1955,"lane":"british-isles","series":"Tolkien","topic":"Writing The Lord of the Rings","thematic":false,"conf":"h"}
+{"i":239,"s":-218,"e":1415,"lane":"w-europe","series":"Portugal","topic":"Early Portugal, Reconquista","thematic":false,"conf":"h"}
+{"i":240,"s":1415,"e":1640,"lane":"w-europe","series":"Portugal","topic":"Age of Discovery, Vasco da Gama","thematic":false,"conf":"h"}
+{"i":241,"s":1640,"e":1822,"lane":"w-europe","series":"Portugal","topic":"Gold, 1755 earthquake, Brazil","thematic":false,"conf":"m"}
+{"i":242,"s":1910,"e":1974,"lane":"w-europe","series":"Portugal","topic":"20th-century Portugal, Salazar","thematic":false,"conf":"h"}
+{"i":243,"s":1926,"e":1953,"lane":"british-isles","series":"Queen Elizabeth II","topic":"Elizabeth's early life","thematic":false,"conf":"h"}
+{"i":244,"s":1952,"e":2022,"lane":"british-isles","series":"Queen Elizabeth II","topic":"Elizabeth II's reign","thematic":false,"conf":"h"}
+{"i":245,"s":1933,"e":1934,"lane":"british-isles","series":null,"topic":"Loch Ness Monster","thematic":false,"conf":"m"}
+{"i":246,"s":1770,"e":1805,"lane":"c-n-europe","series":null,"topic":"Goethe, Schiller, first Romantics","thematic":false,"conf":"h"}
+{"i":247,"s":1912,"e":1937,"lane":"e-asia","series":"China and World War II","topic":"Republic, warlords, Kuomintang","thematic":false,"conf":"h"}
+{"i":248,"s":1937,"e":1945,"lane":"e-asia","series":"China and World War II","topic":"China in WWII, Nanjing","thematic":false,"conf":"h"}
+{"i":249,"s":1926,"e":1962,"lane":"n-america","series":null,"topic":"Marilyn Monroe","thematic":false,"conf":"h"}
+{"i":250,"s":1795,"e":1820,"lane":"british-isles","series":null,"topic":"Regency fashion","thematic":false,"conf":"h"}
+{"i":251,"s":1874,"e":1895,"lane":"british-isles","series":"Young Churchill","topic":"Churchill's childhood, Sandhurst","thematic":false,"conf":"h"}
+{"i":252,"s":1895,"e":1899,"lane":"british-isles","series":"Young Churchill","topic":"Churchill in Cuba, India, Sudan","thematic":false,"conf":"h"}
+{"i":253,"s":1899,"e":1900,"lane":"sub-africa","series":"Young Churchill","topic":"Churchill's Boer War escape","thematic":false,"conf":"h"}
+{"i":254,"s":-52,"e":1944,"lane":"w-europe","series":null,"topic":"French history through film","thematic":true,"conf":"h"}
+{"i":255,"s":1793,"e":1805,"lane":"w-europe","series":"Trafalgar","topic":"Royal Navy and Napoleonic wars","thematic":false,"conf":"m"}
+{"i":256,"s":1803,"e":1805,"lane":"w-europe","series":"Trafalgar","topic":"Napoleon's invasion plan, Nelson","thematic":false,"conf":"h"}
+{"i":257,"s":1805,"e":1805,"lane":"w-europe","series":"Trafalgar","topic":"Battle of Trafalgar","thematic":false,"conf":"h"}
+{"i":258,"s":2022,"e":2022,"lane":"british-isles","series":null,"topic":"Liz Truss resigns","thematic":false,"conf":"h"}
+{"i":259,"s":1939,"e":1945,"lane":"global","series":null,"topic":"Allied commanders in WWII","thematic":false,"conf":"m"}
+{"i":260,"s":1351,"e":1600,"lane":"british-isles","series":"Treason","topic":"Medieval treason law","thematic":false,"conf":"h"}
+{"i":261,"s":1600,"e":1916,"lane":"british-isles","series":"Treason","topic":"Treason in modern Britain","thematic":false,"conf":"h"}
+{"i":262,"s":849,"e":878,"lane":"british-isles","series":"Alfred the Great","topic":"Alfred and the Vikings","thematic":false,"conf":"h"}
+{"i":263,"s":878,"e":899,"lane":"british-isles","series":"Alfred the Great","topic":"Alfred's return, Wessex","thematic":false,"conf":"h"}
+{"i":264,"s":1863,"e":1950,"lane":"global","series":"The World Cup","topic":"Early World Cup, Mussolini","thematic":false,"conf":"m"}
+{"i":265,"s":1950,"e":1982,"lane":"global","series":"The World Cup","topic":"Post-war World Cup","thematic":false,"conf":"m"}
+{"i":266,"s":1986,"e":2022,"lane":"global","series":"The World Cup","topic":"World Cup 1986 to Qatar","thematic":false,"conf":"m"}
+{"i":267,"s":1700,"e":2022,"lane":"mideast","series":"World Cup 2022 countries","topic":"History of Qatar","thematic":false,"conf":"m"}
+{"i":268,"s":1942,"e":1943,"lane":"c-n-europe","series":"World Cup 2022 countries","topic":"The White Rose resistance","thematic":false,"conf":"h"}
+{"i":269,"s":1948,"e":1948,"lane":"se-asia-oceania","series":"World Cup 2022 countries","topic":"Somerton Man mystery","thematic":false,"conf":"h"}
+{"i":270,"s":1948,"e":1948,"lane":"mesoamerica","series":"World Cup 2022 countries","topic":"Costa Rican Civil War","thematic":false,"conf":"h"}
+{"i":271,"s":1800,"e":2022,"lane":"mideast","series":"World Cup 2022 countries","topic":"Anglo-Iranian relations","thematic":false,"conf":"m"}
+{"i":272,"s":284,"e":305,"lane":"s-europe","series":"World Cup 2022 countries","topic":"Emperor Diocletian","thematic":false,"conf":"h"}
+{"i":273,"s":1963,"e":1973,"lane":"s-america","series":"World Cup 2022 countries","topic":"Tupamaros guerrillas","thematic":false,"conf":"h"}
+{"i":274,"s":-814,"e":-814,"lane":"n-africa","series":"World Cup 2022 countries","topic":"Dido of Carthage","thematic":false,"conf":"m"}
+{"i":275,"s":1776,"e":2022,"lane":"n-america","series":"World Cup 2022 countries","topic":"Anglo-American rivalry","thematic":false,"conf":"m"}
+{"i":276,"s":1325,"e":2022,"lane":"mesoamerica","series":"World Cup 2022 countries","topic":"Day of the Dead origins","thematic":false,"conf":"m"}
+{"i":277,"s":570,"e":692,"lane":"mideast","series":"World Cup 2022 countries","topic":"The Kaaba in Mecca","thematic":false,"conf":"m"}
+{"i":278,"s":1506,"e":1544,"lane":"e-asia","series":"World Cup 2022 countries","topic":"Hwang Jini, gisaeng poet","thematic":false,"conf":"m"}
+{"i":279,"s":400,"e":2022,"lane":"british-isles","series":"World Cup 2022 countries","topic":"Wales and England","thematic":false,"conf":"m"}
+{"i":280,"s":1822,"e":1889,"lane":"s-america","series":"World Cup 2022 countries","topic":"Emperor Pedro II of Brazil","thematic":false,"conf":"h"}
+{"i":281,"s":1700,"e":1900,"lane":"sub-africa","series":"World Cup 2022 countries","topic":"Ashanti Empire","thematic":false,"conf":"h"}
+{"i":282,"s":960,"e":2022,"lane":"e-europe","series":"World Cup 2022 countries","topic":"Seven wonders of Poland","thematic":true,"conf":"m"}
+{"i":283,"s":1390,"e":1441,"lane":"w-europe","series":"World Cup 2022 countries","topic":"Jan van Eyck","thematic":false,"conf":"h"}
+{"i":284,"s":1500,"e":1850,"lane":"sub-africa","series":"World Cup 2022 countries","topic":"Gorée and the slave trade","thematic":false,"conf":"m"}
+{"i":285,"s":1974,"e":1975,"lane":"w-europe","series":"World Cup 2022 countries","topic":"Carnation Revolution","thematic":false,"conf":"h"}
+{"i":286,"s":1553,"e":1553,"lane":"c-n-europe","series":"World Cup 2022 countries","topic":"Calvin and Servetus, Geneva","thematic":false,"conf":"h"}
+{"i":287,"s":1865,"e":1900,"lane":"s-america","series":"World Cup 2022 countries","topic":"Welsh colony in Patagonia","thematic":false,"conf":"h"}
+{"i":288,"s":1570,"e":1700,"lane":"w-europe","series":"World Cup 2022 countries","topic":"Dutch Golden Age, Maid of Holland","thematic":false,"conf":"m"}
+{"i":289,"s":1100,"e":1945,"lane":"e-asia","series":"World Cup 2022 countries","topic":"Japan: samurai and shoguns","thematic":false,"conf":"m"}
+{"i":290,"s":1888,"e":1890,"lane":"british-isles","series":"World Cup 2022 countries","topic":"Louis Le Prince, motion pictures","thematic":false,"conf":"m"}
+{"i":291,"s":1696,"e":1781,"lane":"e-europe","series":"World Cup 2022 countries","topic":"Abram Gannibal","thematic":false,"conf":"h"}
+{"i":292,"s":-5700,"e":-4500,"lane":"s-europe","series":"World Cup 2022 countries","topic":"Vinča culture of Serbia","thematic":false,"conf":"m"}
+{"i":293,"s":711,"e":1031,"lane":"w-europe","series":"World Cup 2022 countries","topic":"Caliphate of Córdoba","thematic":false,"conf":"h"}
+{"i":294,"s":1921,"e":1926,"lane":"n-africa","series":"World Cup 2022 countries","topic":"Rif War in Morocco","thematic":false,"conf":"h"}
+{"i":295,"s":1831,"e":1836,"lane":"s-america","series":"World Cup 2022 countries","topic":"Darwin in the Galapagos","thematic":false,"conf":"h"}
+{"i":296,"s":1943,"e":1943,"lane":"c-n-europe","series":null,"topic":"Rescue of Danish Jews","thematic":false,"conf":"h"}
+{"i":297,"s":1600,"e":1938,"lane":"n-america","series":null,"topic":"Beaver fur trade and wars","thematic":false,"conf":"m"}
+{"i":298,"s":1700,"e":1900,"lane":"british-isles","series":null,"topic":"Roast beef and British patriotism","thematic":false,"conf":"m"}
+{"i":299,"s":-4,"e":33,"lane":"mideast","series":"Jesus Christ","topic":"Historical Jesus mystery","thematic":false,"conf":"m"}
+{"i":300,"s":30,"e":100,"lane":"mideast","series":"Jesus Christ","topic":"Jesus, crucifixion and disciples","thematic":false,"conf":"m"}
+{"i":301,"s":1600,"e":1850,"lane":"british-isles","series":null,"topic":"Christmas drinks history","thematic":true,"conf":"m"}
+{"i":302,"s":2022,"e":2022,"lane":"global","series":null,"topic":"2022 year in review","thematic":false,"conf":"m"}
+{"i":303,"s":1942,"e":1944,"lane":"e-europe","series":"Rudolf Vrba","topic":"Vrba and Wetzler Auschwitz escape","thematic":false,"conf":"h"}
+{"i":304,"s":1944,"e":1945,"lane":"global","series":"Rudolf Vrba","topic":"Allied response to Vrba report","thematic":false,"conf":"h"}
+{"i":305,"s":1547,"e":1553,"lane":"british-isles","series":"Lady Jane Grey","topic":"Edward VI succession crisis","thematic":false,"conf":"h"}
+{"i":306,"s":1553,"e":1554,"lane":"british-isles","series":"Lady Jane Grey","topic":"Jane Grey's reign and execution","thematic":false,"conf":"h"}
+{"i":307,"s":1871,"e":1919,"lane":"c-n-europe","series":"The Rise of the Nazis","topic":"Origins of Nazism","thematic":false,"conf":"h"}
+{"i":308,"s":1919,"e":1924,"lane":"c-n-europe","series":"The Rise of the Nazis","topic":"Beer Hall Putsch and Weimar crisis","thematic":false,"conf":"h"}
+{"i":309,"s":1929,"e":1933,"lane":"c-n-europe","series":"The Rise of the Nazis","topic":"Hitler's route to power","thematic":false,"conf":"h"}
+{"i":310,"s":1933,"e":1934,"lane":"c-n-europe","series":"The Rise of the Nazis","topic":"Hitler consolidates dictatorship","thematic":false,"conf":"h"}
+{"i":311,"s":-1479,"e":-1458,"lane":"n-africa","series":null,"topic":"Hatshepsut female pharaoh","thematic":false,"conf":"h"}
+{"i":312,"s":1900,"e":1914,"lane":"british-isles","series":null,"topic":"Edwardian domestic service","thematic":false,"conf":"h"}
+{"i":313,"s":1200,"e":1982,"lane":"w-europe","series":"The Cathars","topic":"Da Vinci Code and Cathar myth","thematic":false,"conf":"m"}
+{"i":314,"s":1140,"e":1244,"lane":"w-europe","series":"The Cathars","topic":"Cathar heresy history","thematic":false,"conf":"h"}
+{"i":315,"s":1209,"e":1229,"lane":"w-europe","series":"The Cathars","topic":"Albigensian Crusade","thematic":false,"conf":"h"}
+{"i":316,"s":-49,"e":-44,"lane":"s-europe","series":"Caesar's Murder","topic":"Assassination of Julius Caesar","thematic":false,"conf":"h"}
+{"i":317,"s":-44,"e":-27,"lane":"s-europe","series":"Caesar's Murder","topic":"Fall of the Roman Republic","thematic":false,"conf":"h"}
+{"i":318,"s":1451,"e":1492,"lane":"w-europe","series":"Columbus","topic":"Columbus's early life and backing","thematic":false,"conf":"h"}
+{"i":319,"s":1492,"e":1500,"lane":"mesoamerica","series":"Columbus","topic":"Columbus's first voyage","thematic":false,"conf":"h"}
+{"i":320,"s":1493,"e":1504,"lane":"mesoamerica","series":"Columbus","topic":"Columbus's later voyages","thematic":false,"conf":"h"}
+{"i":321,"s":1492,"e":1506,"lane":"mesoamerica","series":"Columbus","topic":"Columbus legacy debate","thematic":false,"conf":"m"}
+{"i":322,"s":1911,"e":1964,"lane":"n-america","series":"Ronald Reagan","topic":"Reagan's early life and Hollywood","thematic":false,"conf":"h"}
+{"i":323,"s":1950,"e":1980,"lane":"n-america","series":"Ronald Reagan","topic":"Reagan to the White House","thematic":false,"conf":"h"}
+{"i":324,"s":1981,"e":1989,"lane":"n-america","series":"Ronald Reagan","topic":"Reagan presidency and Iran-Contra","thematic":false,"conf":"h"}
+{"i":325,"s":-2200,"e":1800,"lane":"global","series":null,"topic":"History of climate apocalypse fears","thematic":true,"conf":"m"}
+{"i":326,"s":-360,"e":-360,"lane":"s-europe","series":"Atlantis","topic":"Plato and Atlantis legend","thematic":false,"conf":"m"}
+{"i":327,"s":1600,"e":1945,"lane":"global","series":"Atlantis","topic":"Atlantis theories and legacy","thematic":false,"conf":"m"}
+{"i":328,"s":1718,"e":1759,"lane":"n-america","series":null,"topic":"Benjamin Lay, first abolitionist","thematic":false,"conf":"h"}
+{"i":329,"s":1600,"e":1900,"lane":"sub-africa","series":null,"topic":"African queens and female warriors","thematic":false,"conf":"h"}
+{"i":330,"s":1337,"e":1340,"lane":"w-europe","series":"Hundred Years' War","topic":"Origins of Hundred Years' War","thematic":false,"conf":"h"}
+{"i":331,"s":1340,"e":1346,"lane":"w-europe","series":"Hundred Years' War","topic":"Sluys and Crecy","thematic":false,"conf":"h"}
+{"i":332,"s":1346,"e":1356,"lane":"w-europe","series":"Hundred Years' War","topic":"Black Prince and Poitiers","thematic":false,"conf":"h"}
+{"i":333,"s":1356,"e":1376,"lane":"w-europe","series":"Hundred Years' War","topic":"Black Prince in Aquitaine","thematic":false,"conf":"h"}
+{"i":334,"s":1949,"e":1990,"lane":"c-n-europe","series":null,"topic":"Life in East Germany","thematic":false,"conf":"h"}
+{"i":335,"s":1800,"e":1930,"lane":"global","series":null,"topic":"Famous historical dogs","thematic":true,"conf":"h"}
+{"i":336,"s":1975,"e":1975,"lane":"se-asia-oceania","series":"Fall of Saigon","topic":"Fall of Saigon 1975","thematic":false,"conf":"h"}
+{"i":337,"s":1975,"e":1975,"lane":"se-asia-oceania","series":"Fall of Saigon","topic":"Saigon evacuation 1975","thematic":false,"conf":"h"}
+{"i":338,"s":1848,"e":1849,"lane":"w-europe","series":null,"topic":"Revolutions of 1848","thematic":false,"conf":"h"}
+{"i":339,"s":-1000,"e":1100,"lane":"british-isles","series":"Coronations","topic":"Deep history of coronations","thematic":false,"conf":"m"}
+{"i":340,"s":1066,"e":1838,"lane":"british-isles","series":"Coronations","topic":"Misbehaving at coronations","thematic":false,"conf":"m"}
+{"i":341,"s":1838,"e":1953,"lane":"british-isles","series":"Coronations","topic":"Modern British coronations","thematic":false,"conf":"h"}
+{"i":342,"s":-484,"e":-425,"lane":"s-europe","series":null,"topic":"Herodotus and the Histories","thematic":false,"conf":"h"}
+{"i":343,"s":1647,"e":1692,"lane":"n-america","series":null,"topic":"New England witch trials","thematic":false,"conf":"h"}
+{"i":344,"s":1885,"e":1885,"lane":"sub-africa","series":null,"topic":"Haggard's King Solomon's Mines","thematic":false,"conf":"m"}
+{"i":345,"s":1649,"e":1658,"lane":"british-isles","series":null,"topic":"Cromwell's Commonwealth","thematic":false,"conf":"h"}
+{"i":346,"s":-508,"e":-322,"lane":"s-europe","series":null,"topic":"Athenian democracy","thematic":false,"conf":"h"}
+{"i":347,"s":1717,"e":1940,"lane":"british-isles","series":null,"topic":"Freemasonry history","thematic":false,"conf":"m"}
+{"i":348,"s":400,"e":1700,"lane":"british-isles","series":"Ireland","topic":"Ireland from Celts to Cromwell","thematic":false,"conf":"m"}
+{"i":349,"s":1800,"e":1890,"lane":"british-isles","series":"Ireland","topic":"Union, Famine, Parnell","thematic":false,"conf":"h"}
+{"i":350,"s":1912,"e":1914,"lane":"british-isles","series":"Ireland","topic":"Home Rule crisis","thematic":false,"conf":"h"}
+{"i":351,"s":1916,"e":1916,"lane":"british-isles","series":"Ireland","topic":"Easter Rising 1916","thematic":false,"conf":"h"}
+{"i":352,"s":117,"e":138,"lane":"s-europe","series":null,"topic":"Hadrian and Antinous","thematic":false,"conf":"h"}
+{"i":353,"s":1854,"e":1895,"lane":"british-isles","series":"Oscar Wilde","topic":"Wilde's rise and libel suit","thematic":false,"conf":"h"}
+{"i":354,"s":1895,"e":1900,"lane":"british-isles","series":"Oscar Wilde","topic":"Wilde's trial and prison","thematic":false,"conf":"h"}
+{"i":355,"s":1904,"e":1945,"lane":"n-america","series":"Oppenheimer","topic":"Oppenheimer and the atom bomb","thematic":false,"conf":"h"}
+{"i":356,"s":1945,"e":1967,"lane":"n-america","series":"Oppenheimer","topic":"Oppenheimer security hearing","thematic":false,"conf":"h"}
+{"i":357,"s":-1400,"e":-586,"lane":"mideast","series":"Raiders of the Lost Ark","topic":"Ark of the Covenant","thematic":false,"conf":"m"}
+{"i":358,"s":30,"e":1250,"lane":"w-europe","series":"Raiders of the Lost Ark","topic":"Holy Grail legend","thematic":false,"conf":"m"}
+{"i":359,"s":1763,"e":1773,"lane":"n-america","series":"The American Revolution","topic":"Origins of American Revolution","thematic":false,"conf":"h"}
+{"i":360,"s":1773,"e":1773,"lane":"n-america","series":"The American Revolution","topic":"Boston Tea Party","thematic":false,"conf":"h"}
+{"i":361,"s":1774,"e":1776,"lane":"n-america","series":"The American Revolution","topic":"Declaration of Independence","thematic":false,"conf":"h"}
+{"i":362,"s":1777,"e":1783,"lane":"n-america","series":"The American Revolution","topic":"Washington's victory at Yorktown","thematic":false,"conf":"h"}
+{"i":363,"s":1275,"e":1600,"lane":"w-europe","series":"Amsterdam","topic":"Amsterdam's rise","thematic":false,"conf":"m"}
+{"i":364,"s":1600,"e":1960,"lane":"w-europe","series":"Amsterdam","topic":"Amsterdam Golden Age and after","thematic":false,"conf":"m"}
+{"i":365,"s":1968,"e":1968,"lane":"w-europe","series":"Paris 1968","topic":"May 1968 student revolt","thematic":false,"conf":"h"}
+{"i":366,"s":1940,"e":1969,"lane":"w-europe","series":"Paris 1968","topic":"De Gaulle and May 1968","thematic":false,"conf":"m"}
+{"i":367,"s":79,"e":79,"lane":"s-europe","series":null,"topic":"Vesuvius eruption Pompeii","thematic":false,"conf":"h"}
+{"i":368,"s":1347,"e":1380,"lane":"s-europe","series":null,"topic":"Catherine of Siena","thematic":false,"conf":"h"}
+{"i":369,"s":-500,"e":1940,"lane":"global","series":"Historical Love Island","topic":"Historical Love Island sequel","thematic":true,"conf":"h"}
+{"i":370,"s":800,"e":1050,"lane":"c-n-europe","series":null,"topic":"Viking sorcery and ritual","thematic":false,"conf":"h"}
+{"i":371,"s":1963,"e":1963,"lane":"n-america","series":null,"topic":"MLK I Have a Dream","thematic":false,"conf":"h"}
+{"i":372,"s":1970,"e":1979,"lane":"n-america","series":null,"topic":"1970s New York crisis","thematic":false,"conf":"h"}
+{"i":373,"s":-300,"e":642,"lane":"n-africa","series":null,"topic":"Library of Alexandria","thematic":false,"conf":"h"}
+{"i":374,"s":1631,"e":1653,"lane":"s-asia","series":null,"topic":"Building the Taj Mahal","thematic":false,"conf":"h"}
+{"i":375,"s":1945,"e":1963,"lane":"british-isles","series":"Sixties Fashion","topic":"Postwar youth fashion","thematic":false,"conf":"h"}
+{"i":376,"s":1964,"e":1969,"lane":"british-isles","series":"Sixties Fashion","topic":"Swinging London fashion","thematic":false,"conf":"h"}
+{"i":377,"s":1740,"e":1814,"lane":"w-europe","series":null,"topic":"Marquis de Sade","thematic":false,"conf":"h"}
+{"i":378,"s":1904,"e":1997,"lane":"e-asia","series":null,"topic":"Deng Xiaoping biography","thematic":false,"conf":"h"}
+{"i":379,"s":1800,"e":1900,"lane":"british-isles","series":"Real Harry Potter","topic":"Roots of Harry Potter","thematic":false,"conf":"m"}
+{"i":380,"s":1700,"e":1850,"lane":"british-isles","series":"Real Harry Potter","topic":"British public schools history","thematic":false,"conf":"m"}
+{"i":381,"s":70,"e":404,"lane":"s-europe","series":null,"topic":"The Colosseum","thematic":false,"conf":"h"}
+{"i":382,"s":1970,"e":1973,"lane":"s-america","series":"1973 Chilean Coup","topic":"Allende, Nixon and CIA","thematic":false,"conf":"h"}
+{"i":383,"s":1973,"e":1973,"lane":"s-america","series":"1973 Chilean Coup","topic":"Pinochet seizes power","thematic":false,"conf":"h"}
+{"i":384,"s":1900,"e":1932,"lane":"british-isles","series":"British Fascism","topic":"Birth of British fascism","thematic":false,"conf":"h"}
+{"i":385,"s":1932,"e":1936,"lane":"british-isles","series":"British Fascism","topic":"Oswald Mosley's BUF","thematic":false,"conf":"h"}
+{"i":386,"s":1936,"e":1936,"lane":"british-isles","series":"British Fascism","topic":"Battle of Cable Street","thematic":false,"conf":"h"}
+{"i":387,"s":1930,"e":1945,"lane":"british-isles","series":"British Fascism","topic":"Mitford sisters and Hitler","thematic":false,"conf":"m"}
+{"i":388,"s":661,"e":762,"lane":"mideast","series":"Baghdad","topic":"Umayyads to founding of Baghdad","thematic":false,"conf":"h"}
+{"i":389,"s":762,"e":809,"lane":"mideast","series":"Baghdad","topic":"Abbasid Baghdad's early years","thematic":false,"conf":"h"}
+{"i":390,"s":786,"e":900,"lane":"mideast","series":"Baghdad","topic":"Baghdad's Islamic Golden Age","thematic":false,"conf":"h"}
+{"i":391,"s":786,"e":1258,"lane":"mideast","series":"Baghdad","topic":"Baghdad and Arabian Nights","thematic":false,"conf":"m"}
+{"i":392,"s":1728,"e":1768,"lane":"british-isles","series":"Captain Cook","topic":"Cook's early life","thematic":false,"conf":"m"}
+{"i":393,"s":1768,"e":1771,"lane":"se-asia-oceania","series":"Captain Cook","topic":"Cook's first Pacific voyage","thematic":false,"conf":"h"}
+{"i":394,"s":1769,"e":1793,"lane":"w-europe","series":"Young Napoleon","topic":"Napoleon's youth in Corsica","thematic":false,"conf":"h"}
+{"i":395,"s":1793,"e":1796,"lane":"w-europe","series":"Young Napoleon","topic":"Napoleon in the Revolution","thematic":false,"conf":"h"}
+{"i":396,"s":1518,"e":1519,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Cortes and Montezuma meet","thematic":false,"conf":"h"}
+{"i":397,"s":1519,"e":1519,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Cortes and Malinche","thematic":false,"conf":"h"}
+{"i":398,"s":1519,"e":1519,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Cortes marches inland","thematic":false,"conf":"h"}
+{"i":399,"s":1519,"e":1519,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Cortes in Tenochtitlan","thematic":false,"conf":"h"}
+{"i":400,"s":1520,"e":1520,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Toxcatl festival massacre","thematic":false,"conf":"h"}
+{"i":401,"s":1520,"e":1520,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Noche Triste","thematic":false,"conf":"h"}
+{"i":402,"s":1521,"e":1521,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Siege of Tenochtitlan","thematic":false,"conf":"h"}
+{"i":403,"s":1521,"e":1525,"lane":"mesoamerica","series":"The Fall of the Aztecs","topic":"Cuauhtemoc and aftermath","thematic":false,"conf":"h"}
+{"i":404,"s":1917,"e":1960,"lane":"n-america","series":"JFK","topic":"JFK's rise to presidency","thematic":false,"conf":"h"}
+{"i":405,"s":1960,"e":1963,"lane":"n-america","series":"JFK","topic":"JFK presidency and Cold War","thematic":false,"conf":"h"}
+{"i":406,"s":1963,"e":1963,"lane":"n-america","series":"JFK","topic":"Kennedy assassination day","thematic":false,"conf":"h"}
+{"i":407,"s":1963,"e":1963,"lane":"n-america","series":"JFK","topic":"Hunt for Kennedy's killer","thematic":false,"conf":"h"}
+{"i":408,"s":1963,"e":1963,"lane":"n-america","series":"JFK","topic":"Oswald shot by Ruby","thematic":false,"conf":"h"}
+{"i":409,"s":1963,"e":1979,"lane":"n-america","series":"JFK","topic":"JFK conspiracy theories","thematic":false,"conf":"m"}
+{"i":410,"s":1963,"e":1963,"lane":"n-america","series":"JFK","topic":"Solution to JFK assassination","thematic":false,"conf":"h"}
+{"i":411,"s":1943,"e":1943,"lane":"s-europe","series":null,"topic":"Allied invasion of Italy","thematic":false,"conf":"h"}
+{"i":412,"s":1854,"e":1874,"lane":"british-isles","series":null,"topic":"Tichborne Claimant","thematic":false,"conf":"h"}
+{"i":413,"s":1948,"e":1948,"lane":"british-isles","series":null,"topic":"Windrush arrival","thematic":false,"conf":"h"}
+{"i":414,"s":200,"e":400,"lane":"s-europe","series":null,"topic":"Origins of Christmas","thematic":false,"conf":"m"}
+{"i":415,"s":855,"e":858,"lane":"s-europe","series":null,"topic":"Pope Joan legend","thematic":false,"conf":"h"}
+{"i":416,"s":1934,"e":1934,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Night of the Long Knives","thematic":false,"conf":"h"}
+{"i":417,"s":1933,"e":1938,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Nuremberg rallies","thematic":false,"conf":"h"}
+{"i":418,"s":1933,"e":1939,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Hitler's rearmament and war plans","thematic":false,"conf":"h"}
+{"i":419,"s":1938,"e":1938,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Anschluss of Austria","thematic":false,"conf":"h"}
+{"i":420,"s":1933,"e":1945,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Nazi eugenics and racial policy","thematic":false,"conf":"h"}
+{"i":421,"s":1933,"e":1938,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Persecution of German Jews","thematic":false,"conf":"h"}
+{"i":422,"s":1938,"e":1938,"lane":"c-n-europe","series":"The Nazis in Power","topic":"Kristallnacht","thematic":false,"conf":"h"}
+{"i":423,"s":1669,"e":1703,"lane":"w-europe","series":null,"topic":"Man in the Iron Mask","thematic":false,"conf":"h"}
+{"i":424,"s":-100,"e":1980,"lane":"global","series":null,"topic":"Star Wars, Dune and Rome","thematic":true,"conf":"h"}
+{"i":425,"s":1377,"e":1381,"lane":"british-isles","series":"Richard II","topic":"Peasants' Revolt begins","thematic":false,"conf":"h"}
+{"i":426,"s":1381,"e":1381,"lane":"british-isles","series":"Richard II","topic":"Rebels in London","thematic":false,"conf":"h"}
+{"i":427,"s":1381,"e":1400,"lane":"british-isles","series":"Richard II","topic":"Richard II's fall and murder","thematic":false,"conf":"h"}
+{"i":428,"s":1343,"e":1400,"lane":"british-isles","series":"Richard II","topic":"Chaucer and Canterbury Tales","thematic":false,"conf":"h"}
+{"i":429,"s":1973,"e":1974,"lane":"british-isles","series":"Britain in 1974","topic":"Britain's 1974 state of emergency","thematic":false,"conf":"h"}
+{"i":430,"s":1974,"e":1974,"lane":"british-isles","series":"Britain in 1974","topic":"February 1974 election","thematic":false,"conf":"h"}
+{"i":431,"s":1974,"e":1974,"lane":"british-isles","series":"Britain in 1974","topic":"Wilson government and coup rumours","thematic":false,"conf":"h"}
+{"i":432,"s":1974,"e":1975,"lane":"british-isles","series":"Britain in 1974","topic":"October 1974 election, Thatcher","thematic":false,"conf":"h"}
+{"i":433,"s":-814,"e":-500,"lane":"n-africa","series":"Carthage","topic":"Origins of Carthage","thematic":false,"conf":"h"}
+{"i":434,"s":-600,"e":-264,"lane":"n-africa","series":"Carthage","topic":"Carthage as Mediterranean power","thematic":false,"conf":"h"}
+{"i":435,"s":-753,"e":-264,"lane":"s-europe","series":"Carthage","topic":"Rise of Rome","thematic":false,"conf":"h"}
+{"i":436,"s":-264,"e":-241,"lane":"s-europe","series":"Carthage","topic":"First Punic War","thematic":false,"conf":"m"}
+{"i":437,"s":-1500,"e":1850,"lane":"mesoamerica","series":null,"topic":"History of chocolate","thematic":false,"conf":"m"}
+{"i":438,"s":-500,"e":1900,"lane":"global","series":null,"topic":"Famous historical monkeys","thematic":true,"conf":"h"}
+{"i":439,"s":1907,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Building the Titanic","thematic":false,"conf":"h"}
+{"i":440,"s":1909,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Titanic's luxury and design","thematic":false,"conf":"h"}
+{"i":441,"s":1912,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Titanic voyage begins","thematic":false,"conf":"h"}
+{"i":442,"s":1912,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Titanic hits iceberg","thematic":false,"conf":"h"}
+{"i":443,"s":1912,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Titanic sinking night","thematic":false,"conf":"h"}
+{"i":444,"s":1912,"e":1912,"lane":"british-isles","series":"Titanic","topic":"Titanic aftermath and survivors","thematic":false,"conf":"m"}
+{"i":445,"s":1483,"e":1517,"lane":"c-n-europe","series":"Luther","topic":"Luther's origins and early life","thematic":false,"conf":"m"}
+{"i":446,"s":1505,"e":1517,"lane":"c-n-europe","series":"Luther","topic":"Luther becomes a monk","thematic":false,"conf":"h"}
+{"i":447,"s":1517,"e":1520,"lane":"c-n-europe","series":"Luther","topic":"Ninety-Five Theses and fallout","thematic":false,"conf":"h"}
+{"i":448,"s":1521,"e":1521,"lane":"c-n-europe","series":"Luther","topic":"Diet of Worms","thematic":false,"conf":"h"}
+{"i":449,"s":1521,"e":1525,"lane":"c-n-europe","series":"Luther","topic":"Wartburg and Peasants' War","thematic":false,"conf":"h"}
+{"i":450,"s":1961,"e":1972,"lane":"n-america","series":null,"topic":"Apollo moon landings","thematic":false,"conf":"h"}
+{"i":451,"s":1970,"e":1980,"lane":"n-america","series":null,"topic":"Disco in 1970s America","thematic":false,"conf":"h"}
+{"i":452,"s":1788,"e":1809,"lane":"british-isles","series":"Lord Byron","topic":"Byron's early life","thematic":false,"conf":"h"}
+{"i":453,"s":1809,"e":1811,"lane":"s-europe","series":"Lord Byron","topic":"Byron's Eastern Grand Tour","thematic":false,"conf":"h"}
+{"i":454,"s":1812,"e":1816,"lane":"british-isles","series":"Lord Byron","topic":"Byron's fame and scandal","thematic":false,"conf":"h"}
+{"i":455,"s":1816,"e":1824,"lane":"s-europe","series":"Lord Byron","topic":"Byron's exile and death","thematic":false,"conf":"h"}
+{"i":456,"s":-259,"e":-210,"lane":"e-asia","series":null,"topic":"Qin Shi Huang, First Emperor","thematic":false,"conf":"h"}
+{"i":457,"s":1273,"e":1780,"lane":"c-n-europe","series":null,"topic":"Habsburg dynasty history","thematic":false,"conf":"m"}
+{"i":458,"s":1861,"e":1865,"lane":"n-america","series":"Custer vs. Crazy Horse","topic":"Custer in the Civil War","thematic":false,"conf":"h"}
+{"i":459,"s":1865,"e":1867,"lane":"n-america","series":"Custer vs. Crazy Horse","topic":"Custer after the Civil War","thematic":false,"conf":"h"}
+{"i":460,"s":1850,"e":1866,"lane":"n-america","series":"Custer vs. Crazy Horse","topic":"Crazy Horse and the Lakota","thematic":false,"conf":"m"}
+{"i":461,"s":1866,"e":1868,"lane":"n-america","series":"Custer vs. Crazy Horse","topic":"Fetterman Fight and Red Cloud's War","thematic":false,"conf":"h"}
+{"i":462,"s":1868,"e":1873,"lane":"n-america","series":"Custer's Last Stand","topic":"Washita to Black Hills","thematic":false,"conf":"h"}
+{"i":463,"s":1873,"e":1876,"lane":"n-america","series":"Custer's Last Stand","topic":"Road to Little Bighorn campaign","thematic":false,"conf":"h"}
+{"i":464,"s":1876,"e":1876,"lane":"n-america","series":"Custer's Last Stand","topic":"Battle of Little Bighorn","thematic":false,"conf":"h"}
+{"i":465,"s":1876,"e":1876,"lane":"n-america","series":"Custer's Last Stand","topic":"Reno-Benteen siege and aftermath","thematic":false,"conf":"h"}
+{"i":466,"s":1876,"e":1877,"lane":"n-america","series":"Fall of the Sioux","topic":"Death of Crazy Horse","thematic":false,"conf":"h"}
+{"i":467,"s":1877,"e":1890,"lane":"n-america","series":"Fall of the Sioux","topic":"Ghost Dance and Sitting Bull","thematic":false,"conf":"h"}
+{"i":468,"s":1890,"e":1890,"lane":"n-america","series":"Fall of the Sioux","topic":"Wounded Knee massacre","thematic":false,"conf":"h"}
+{"i":469,"s":-1250,"e":-1180,"lane":"s-europe","series":"Helen of Troy","topic":"Helen and the Trojan War myth","thematic":false,"conf":"m"}
+{"i":470,"s":1870,"e":1876,"lane":"mideast","series":"Helen of Troy","topic":"Schliemann finds Troy and Mycenae","thematic":false,"conf":"m"}
+{"i":471,"s":1666,"e":2000,"lane":"british-isles","series":null,"topic":"The suit and Savile Row","thematic":false,"conf":"m"}
+{"i":472,"s":972,"e":991,"lane":"c-n-europe","series":null,"topic":"Empress Theophanu","thematic":false,"conf":"h"}
+{"i":473,"s":-2000,"e":2020,"lane":"global","series":null,"topic":"History of dragon legends","thematic":true,"conf":"m"}
+{"i":474,"s":280,"e":1350,"lane":"mideast","series":null,"topic":"St George and the dragon","thematic":false,"conf":"m"}
+{"i":475,"s":1265,"e":1900,"lane":"british-isles","series":"British Elections","topic":"Rowdy early British elections","thematic":false,"conf":"h"}
+{"i":476,"s":1900,"e":2020,"lane":"british-isles","series":"British Elections","topic":"Modern British elections","thematic":false,"conf":"h"}
+{"i":477,"s":1894,"e":1914,"lane":"s-europe","series":"The Murder of Franz Ferdinand","topic":"Gavrilo Princip","thematic":false,"conf":"h"}
+{"i":478,"s":1912,"e":1914,"lane":"s-europe","series":"The Murder of Franz Ferdinand","topic":"Black Hand assassination plot","thematic":false,"conf":"h"}
+{"i":479,"s":1863,"e":1914,"lane":"c-n-europe","series":"The Murder of Franz Ferdinand","topic":"Franz Ferdinand's life","thematic":false,"conf":"h"}
+{"i":480,"s":1914,"e":1914,"lane":"s-europe","series":"The Murder of Franz Ferdinand","topic":"Sarajevo assassination day","thematic":false,"conf":"h"}
+{"i":481,"s":1914,"e":1914,"lane":"c-n-europe","series":"The Road to The Great War","topic":"July Crisis overview","thematic":false,"conf":"h"}
+{"i":482,"s":1914,"e":1914,"lane":"c-n-europe","series":"The Road to The Great War","topic":"Kaiser's blank cheque","thematic":false,"conf":"h"}
+{"i":483,"s":1914,"e":1914,"lane":"e-europe","series":"The Road to The Great War","topic":"Austrian ultimatum to Serbia","thematic":false,"conf":"h"}
+{"i":484,"s":1914,"e":1914,"lane":"british-isles","series":"The Road to The Great War","topic":"Britain's decision on war","thematic":false,"conf":"h"}
+{"i":485,"s":1914,"e":1914,"lane":"e-europe","series":"The Road to The Great War","topic":"Russian mobilisation","thematic":false,"conf":"h"}
+{"i":486,"s":1914,"e":1914,"lane":"british-isles","series":"The Road to The Great War","topic":"Britain enters the war","thematic":false,"conf":"h"}
+{"i":487,"s":1755,"e":1785,"lane":"w-europe","series":"The French Revolution","topic":"Marie Antoinette's early life","thematic":false,"conf":"h"}
+{"i":488,"s":1785,"e":1785,"lane":"w-europe","series":"The French Revolution","topic":"Diamond Necklace Affair","thematic":false,"conf":"h"}
+{"i":489,"s":1688,"e":1788,"lane":"w-europe","series":"The French Revolution","topic":"Causes of the Revolution","thematic":false,"conf":"m"}
+{"i":490,"s":1788,"e":1789,"lane":"w-europe","series":"The French Revolution","topic":"Estates-General at Versailles","thematic":false,"conf":"h"}
+{"i":491,"s":1789,"e":1789,"lane":"w-europe","series":"The French Revolution","topic":"Storming of the Bastille","thematic":false,"conf":"h"}
+{"i":492,"s":1789,"e":1789,"lane":"w-europe","series":"The French Revolution","topic":"Declaration of Rights of Man","thematic":false,"conf":"h"}
+{"i":493,"s":1789,"e":1789,"lane":"w-europe","series":"The French Revolution","topic":"Women's March on Versailles","thematic":false,"conf":"h"}
+{"i":494,"s":1790,"e":1791,"lane":"w-europe","series":"The French Revolution","topic":"Flight to Varennes","thematic":false,"conf":"h"}
+{"i":495,"s":1912,"e":1953,"lane":"british-isles","series":null,"topic":"Piltdown Man hoax","thematic":false,"conf":"h"}
+{"i":496,"s":1200,"e":1945,"lane":"s-europe","series":null,"topic":"History of Italian food","thematic":false,"conf":"m"}
+{"i":497,"s":1399,"e":1403,"lane":"british-isles","series":"Henry IV","topic":"Henry IV seizes the throne","thematic":false,"conf":"h"}
+{"i":498,"s":1403,"e":1413,"lane":"british-isles","series":"Henry IV","topic":"Hotspur, Glyndwr, Falstaff era","thematic":false,"conf":"h"}
+{"i":499,"s":1413,"e":1415,"lane":"w-europe","series":"Hundred Years' War","topic":"Henry V invades France","thematic":false,"conf":"h"}
+{"i":500,"s":1415,"e":1415,"lane":"w-europe","series":"Hundred Years' War","topic":"Harfleur and road to Agincourt","thematic":false,"conf":"h"}
+{"i":501,"s":1415,"e":1415,"lane":"w-europe","series":"Hundred Years' War","topic":"Battle of Agincourt","thematic":false,"conf":"h"}
+{"i":502,"s":1415,"e":1422,"lane":"w-europe","series":"Hundred Years' War","topic":"Henry V after Agincourt","thematic":false,"conf":"h"}
+{"i":503,"s":-3000,"e":1500,"lane":"global","series":"History of Beards","topic":"Beards from antiquity to medieval","thematic":true,"conf":"m"}
+{"i":504,"s":1000,"e":1970,"lane":"global","series":"History of Beards","topic":"War on beards in Europe","thematic":true,"conf":"m"}
+{"i":505,"s":1944,"e":1945,"lane":"w-europe","series":null,"topic":"Lee Miller WWII photographer","thematic":false,"conf":"h"}
+{"i":506,"s":1919,"e":1943,"lane":"s-america","series":"Evita","topic":"Eva Peron's early life","thematic":false,"conf":"h"}
+{"i":507,"s":1943,"e":1945,"lane":"s-america","series":"Evita","topic":"Eva meets Peron, rise","thematic":false,"conf":"h"}
+{"i":508,"s":1946,"e":1951,"lane":"s-america","series":"Evita","topic":"Evita as first lady of Argentina","thematic":false,"conf":"h"}
+{"i":509,"s":1951,"e":1952,"lane":"s-america","series":"Evita","topic":"Evita's illness and death","thematic":false,"conf":"h"}
+{"i":510,"s":1952,"e":1976,"lane":"s-america","series":"Evita","topic":"Evita's missing body","thematic":false,"conf":"h"}
+{"i":511,"s":-55,"e":-54,"lane":"british-isles","series":"The Roman Conquest of Britain","topic":"Caesar's invasions of Britain","thematic":false,"conf":"h"}
+{"i":512,"s":43,"e":60,"lane":"british-isles","series":"The Roman Conquest of Britain","topic":"Claudian invasion of Britain","thematic":false,"conf":"h"}
+{"i":513,"s":60,"e":61,"lane":"british-isles","series":"The Roman Conquest of Britain","topic":"Boudicca's revolt","thematic":false,"conf":"h"}
+{"i":514,"s":61,"e":130,"lane":"british-isles","series":"The Roman Conquest of Britain","topic":"Romanisation of Britain","thematic":false,"conf":"m"}
+{"i":515,"s":1791,"e":1791,"lane":"w-europe","series":"The French Revolution","topic":"Champ de Mars massacre","thematic":false,"conf":"h"}
+{"i":516,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"France declares war on Austria","thematic":false,"conf":"h"}
+{"i":517,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"Guillotine invented","thematic":false,"conf":"h"}
+{"i":518,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"Storming of the Tuileries","thematic":false,"conf":"h"}
+{"i":519,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"The Marseillaise","thematic":false,"conf":"h"}
+{"i":520,"s":1968,"e":1968,"lane":"n-america","series":"America in '68","topic":"LBJ and Vietnam 1968","thematic":false,"conf":"h"}
+{"i":521,"s":1968,"e":1968,"lane":"n-america","series":"America in '68","topic":"Martin Luther King assassination","thematic":false,"conf":"h"}
+{"i":522,"s":1968,"e":1968,"lane":"n-america","series":"America in '68","topic":"Robert Kennedy assassination","thematic":false,"conf":"h"}
+{"i":523,"s":1963,"e":1968,"lane":"n-america","series":"America in '68","topic":"George Wallace 1968 campaign","thematic":false,"conf":"h"}
+{"i":524,"s":1968,"e":1968,"lane":"n-america","series":"America in '68","topic":"Chicago Democratic Convention riots","thematic":false,"conf":"h"}
+{"i":525,"s":1968,"e":1968,"lane":"n-america","series":"America in '68","topic":"Nixon wins 1968 election","thematic":false,"conf":"h"}
+{"i":526,"s":1758,"e":1793,"lane":"british-isles","series":"Nelson","topic":"Nelson's early life","thematic":false,"conf":"h"}
+{"i":527,"s":1793,"e":1796,"lane":"w-europe","series":"Nelson","topic":"Nelson at Toulon and Corsica","thematic":false,"conf":"h"}
+{"i":528,"s":1797,"e":1797,"lane":"w-europe","series":"Nelson","topic":"Battle of Cape St Vincent","thematic":false,"conf":"h"}
+{"i":529,"s":1797,"e":1798,"lane":"s-europe","series":"Nelson","topic":"Tenerife and hunt for Napoleon","thematic":false,"conf":"h"}
+{"i":530,"s":1798,"e":1798,"lane":"n-africa","series":"Nelson","topic":"Battle of the Nile","thematic":false,"conf":"h"}
+{"i":531,"s":-5000,"e":-2900,"lane":"mideast","series":null,"topic":"Uruk, first city","thematic":false,"conf":"h"}
+{"i":532,"s":450,"e":511,"lane":"w-europe","series":"Warlords of the West","topic":"Rise of the Franks, Clovis","thematic":false,"conf":"m"}
+{"i":533,"s":561,"e":613,"lane":"w-europe","series":"Warlords of the West","topic":"Fredegund and Brunhild","thematic":false,"conf":"h"}
+{"i":534,"s":711,"e":751,"lane":"w-europe","series":"Warlords of the West","topic":"Charles Martel and Umayyads","thematic":false,"conf":"h"}
+{"i":535,"s":751,"e":772,"lane":"w-europe","series":"Charlemagne","topic":"Charlemagne's rise to power","thematic":false,"conf":"h"}
+{"i":536,"s":772,"e":785,"lane":"w-europe","series":"Charlemagne","topic":"Charlemagne's Saxon wars","thematic":false,"conf":"h"}
+{"i":537,"s":785,"e":800,"lane":"w-europe","series":"Charlemagne","topic":"Charlemagne crowned emperor","thematic":false,"conf":"h"}
+{"i":538,"s":1756,"e":1791,"lane":"c-n-europe","series":null,"topic":"Mozart's life","thematic":false,"conf":"h"}
+{"i":539,"s":1770,"e":1827,"lane":"c-n-europe","series":null,"topic":"Beethoven and Napoleon","thematic":false,"conf":"h"}
+{"i":540,"s":1938,"e":1938,"lane":"c-n-europe","series":"The Nazis' Road to War","topic":"Sudetenland crisis","thematic":false,"conf":"h"}
+{"i":541,"s":1938,"e":1938,"lane":"c-n-europe","series":"The Nazis' Road to War","topic":"Munich Agreement","thematic":false,"conf":"h"}
+{"i":542,"s":1938,"e":1939,"lane":"e-europe","series":"Hitler's War on Poland","topic":"Hitler targets Poland","thematic":false,"conf":"h"}
+{"i":543,"s":1939,"e":1939,"lane":"e-europe","series":"Hitler's War on Poland","topic":"Nazi-Soviet Pact","thematic":false,"conf":"h"}
+{"i":544,"s":1939,"e":1939,"lane":"e-europe","series":"Hitler's War on Poland","topic":"Invasion and fall of Warsaw","thematic":false,"conf":"h"}
+{"i":545,"s":1939,"e":1947,"lane":"e-europe","series":null,"topic":"Wojtek the soldier bear","thematic":false,"conf":"m"}
+{"i":546,"s":-44,"e":96,"lane":"s-europe","series":"Emperors of Rome","topic":"Suetonius and the Caesars","thematic":false,"conf":"m"}
+{"i":547,"s":-42,"e":37,"lane":"s-europe","series":"Emperors of Rome","topic":"Emperor Tiberius","thematic":false,"conf":"h"}
+{"i":548,"s":37,"e":41,"lane":"s-europe","series":"Emperors of Rome","topic":"Emperor Caligula","thematic":false,"conf":"h"}
+{"i":549,"s":41,"e":54,"lane":"s-europe","series":"Emperors of Rome","topic":"Emperor Claudius","thematic":false,"conf":"h"}
+{"i":550,"s":1876,"e":1885,"lane":"sub-africa","series":"Horror in the Congo","topic":"Leopold's Congo origins","thematic":false,"conf":"h"}
+{"i":551,"s":1885,"e":1900,"lane":"sub-africa","series":"Horror in the Congo","topic":"Congo Free State atrocities","thematic":false,"conf":"h"}
+{"i":552,"s":1890,"e":1908,"lane":"sub-africa","series":"Horror in the Congo","topic":"Exposing Leopold's Congo","thematic":false,"conf":"h"}
+{"i":553,"s":1890,"e":1899,"lane":"sub-africa","series":null,"topic":"Conrad's Heart of Darkness","thematic":false,"conf":"h"}
+{"i":554,"s":1527,"e":1609,"lane":"british-isles","series":null,"topic":"John Dee, Elizabeth's magician","thematic":false,"conf":"h"}
+{"i":555,"s":1560,"e":1561,"lane":"s-america","series":null,"topic":"Aguirre's Amazon expedition","thematic":false,"conf":"h"}
+{"i":556,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"September Massacres","thematic":false,"conf":"h"}
+{"i":557,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"Marianne and early feminism","thematic":false,"conf":"m"}
+{"i":558,"s":1792,"e":1792,"lane":"w-europe","series":"The French Revolution","topic":"Valmy and monarchy abolished","thematic":false,"conf":"h"}
+{"i":559,"s":1792,"e":1793,"lane":"w-europe","series":"The French Revolution","topic":"Trial and execution of Louis XVI","thematic":false,"conf":"h"}
+{"i":560,"s":975,"e":1002,"lane":"british-isles","series":"The Road to 1066","topic":"Aethelred and Anglo-Saxon decline","thematic":false,"conf":"m"}
+{"i":561,"s":1002,"e":1042,"lane":"british-isles","series":"The Road to 1066","topic":"Sweyn Forkbeard and Cnut","thematic":false,"conf":"h"}
+{"i":562,"s":1027,"e":1060,"lane":"w-europe","series":"The Road to 1066","topic":"Rise of William of Normandy","thematic":false,"conf":"h"}
+{"i":563,"s":1020,"e":1066,"lane":"british-isles","series":"The Road to 1066","topic":"Godwin family, Harold's rise","thematic":false,"conf":"h"}
+{"i":564,"s":1015,"e":1034,"lane":"c-n-europe","series":"The Last Viking","topic":"Harald Hardrada's early life","thematic":false,"conf":"h"}
+{"i":565,"s":1034,"e":1045,"lane":"s-europe","series":"The Last Viking","topic":"Hardrada in Varangian Guard","thematic":false,"conf":"h"}
+{"i":566,"s":1065,"e":1066,"lane":"british-isles","series":"1066","topic":"Succession crisis of 1066","thematic":false,"conf":"h"}
+{"i":567,"s":1066,"e":1066,"lane":"british-isles","series":"1066","topic":"Battle of Stamford Bridge","thematic":false,"conf":"h"}
+{"i":568,"s":1066,"e":1066,"lane":"british-isles","series":"1066","topic":"Battle of Hastings","thematic":false,"conf":"h"}
+{"i":569,"s":1066,"e":1087,"lane":"british-isles","series":"1066","topic":"Norman Conquest consolidation","thematic":false,"conf":"h"}
+{"i":570,"s":1962,"e":1967,"lane":"british-isles","series":"The Rolling Stones","topic":"Rolling Stones origins","thematic":false,"conf":"h"}
+{"i":571,"s":1967,"e":1969,"lane":"british-isles","series":"The Rolling Stones","topic":"Stones drug busts, Brian Jones","thematic":false,"conf":"h"}
+{"i":572,"s":970,"e":1020,"lane":"e-asia","series":"The Golden Age of Japan","topic":"Murasaki and Tale of Genji","thematic":false,"conf":"h"}
+{"i":573,"s":990,"e":1020,"lane":"e-asia","series":"The Golden Age of Japan","topic":"Sei Shonagon, Heian court","thematic":false,"conf":"h"}
+{"i":574,"s":1672,"e":1689,"lane":"e-europe","series":"Peter the Great","topic":"Peter's youth and accession","thematic":false,"conf":"h"}
+{"i":575,"s":1689,"e":1700,"lane":"e-europe","series":"Peter the Great","topic":"Peter's Azov war, Grand Embassy","thematic":false,"conf":"h"}
+{"i":576,"s":1700,"e":1702,"lane":"e-europe","series":"The Great Northern War","topic":"Outbreak of Great Northern War","thematic":false,"conf":"h"}
+{"i":577,"s":1703,"e":1708,"lane":"e-europe","series":"The Great Northern War","topic":"St Petersburg and Mazepa","thematic":false,"conf":"h"}
+{"i":578,"s":1707,"e":1709,"lane":"e-europe","series":"The Great Northern War","topic":"Battle of Poltava","thematic":false,"conf":"h"}
+{"i":579,"s":1709,"e":1725,"lane":"e-europe","series":"The Great Northern War","topic":"Peter's later reign, Alexei","thematic":false,"conf":"h"}
+{"i":580,"s":-264,"e":-219,"lane":"n-africa","series":"Hannibal","topic":"Hamilcar and Hannibal's rise","thematic":false,"conf":"h"}
+{"i":581,"s":-218,"e":-218,"lane":"s-europe","series":"Hannibal","topic":"Hannibal crosses the Alps","thematic":false,"conf":"h"}
+{"i":582,"s":-218,"e":-218,"lane":"s-europe","series":"Hannibal","topic":"Invasion of Italy, Trebbia","thematic":false,"conf":"h"}
+{"i":583,"s":-216,"e":-216,"lane":"s-europe","series":"Hannibal","topic":"Battle of Cannae","thematic":false,"conf":"h"}
+{"i":584,"s":1397,"e":1464,"lane":"s-europe","series":"The Medici","topic":"Medici rise in Florence","thematic":false,"conf":"h"}
+{"i":585,"s":1469,"e":1478,"lane":"s-europe","series":"The Medici","topic":"Lorenzo and Pazzi Conspiracy","thematic":false,"conf":"h"}
+{"i":586,"s":1478,"e":1492,"lane":"s-europe","series":"The Medici","topic":"Lorenzo's rule of Florence","thematic":false,"conf":"h"}
+{"i":587,"s":1492,"e":1498,"lane":"s-europe","series":"The Medici","topic":"Savonarola's Florence","thematic":false,"conf":"h"}
+{"i":588,"s":1916,"e":1918,"lane":"british-isles","series":"The Irish War of Independence","topic":"Origins after Easter Rising","thematic":false,"conf":"h"}
+{"i":589,"s":1918,"e":1920,"lane":"british-isles","series":"The Irish War of Independence","topic":"Sinn Fein and guerrilla war","thematic":false,"conf":"h"}
+{"i":590,"s":1920,"e":1920,"lane":"british-isles","series":"The Irish War of Independence","topic":"Bloody Sunday 1920","thematic":false,"conf":"h"}
+{"i":591,"s":1921,"e":1922,"lane":"british-isles","series":"The Irish War of Independence","topic":"Anglo-Irish Treaty","thematic":false,"conf":"h"}
+{"i":592,"s":1914,"e":1922,"lane":"british-isles","series":"The Irish Civil War","topic":"Assassination of Sir Henry Wilson","thematic":false,"conf":"h"}
+{"i":593,"s":1922,"e":1922,"lane":"british-isles","series":"The Irish Civil War","topic":"Killing of Michael Collins","thematic":false,"conf":"h"}
+{"i":594,"s":1144,"e":1144,"lane":"british-isles","series":null,"topic":"William of Norwich murder","thematic":false,"conf":"h"}
+{"i":595,"s":1931,"e":1937,"lane":"british-isles","series":null,"topic":"Rector of Stiffkey scandal","thematic":false,"conf":"h"}
+{"i":596,"s":1542,"e":1548,"lane":"british-isles","series":"Mary, Queen of Scots","topic":"Mary's birth and infancy","thematic":false,"conf":"h"}
+{"i":597,"s":1548,"e":1561,"lane":"w-europe","series":"Mary, Queen of Scots","topic":"Mary at French court","thematic":false,"conf":"h"}
+{"i":598,"s":1561,"e":1565,"lane":"british-isles","series":"Mary, Queen of Scots","topic":"Mary returns to Scotland","thematic":false,"conf":"h"}
+{"i":599,"s":1565,"e":1566,"lane":"british-isles","series":"Mary, Queen of Scots","topic":"Mary, Darnley and Bothwell","thematic":false,"conf":"h"}
+{"i":600,"s":1566,"e":1567,"lane":"british-isles","series":"Mary, Queen of Scots","topic":"Darnley's murder at Kirk o' Field","thematic":false,"conf":"h"}
+{"i":601,"s":1567,"e":1568,"lane":"british-isles","series":"Mary, Queen of Scots","topic":"Mary's downfall and flight","thematic":false,"conf":"h"}
+{"i":602,"s":1865,"e":1865,"lane":"n-america","series":"The Assassination of Abraham Lincoln","topic":"Lincoln's final weeks","thematic":false,"conf":"h"}
+{"i":603,"s":1865,"e":1865,"lane":"n-america","series":"The Assassination of Abraham Lincoln","topic":"Booth and the manhunt","thematic":false,"conf":"h"}
+{"i":604,"s":1830,"e":1900,"lane":"british-isles","series":null,"topic":"Victorian sport origins","thematic":false,"conf":"m"}
+{"i":605,"s":1860,"e":1860,"lane":"british-isles","series":null,"topic":"Heenan v Sayers boxing fight","thematic":false,"conf":"h"}
+{"i":606,"s":1914,"e":1914,"lane":"w-europe","series":"The First World War (1914-15)","topic":"Invasion of Belgium 1914","thematic":false,"conf":"h"}
+{"i":607,"s":1914,"e":1914,"lane":"w-europe","series":"The First World War (1914-15)","topic":"Battle of the Frontiers","thematic":false,"conf":"h"}
+{"i":608,"s":1914,"e":1914,"lane":"w-europe","series":"The First World War (1914-15)","topic":"Miracle on the Marne","thematic":false,"conf":"h"}
+{"i":609,"s":1914,"e":1914,"lane":"w-europe","series":"The First World War (1914-15)","topic":"First Battle of Ypres","thematic":false,"conf":"h"}
+{"i":610,"s":1914,"e":1914,"lane":"e-europe","series":"The First World War (1914-15)","topic":"Eastern Front 1914","thematic":false,"conf":"h"}
+{"i":611,"s":1914,"e":1914,"lane":"e-europe","series":"The First World War (1914-15)","topic":"Habsburg defeats in Galicia","thematic":false,"conf":"h"}
+{"i":612,"s":43,"e":1945,"lane":"british-isles","series":null,"topic":"Chatham High Street history","thematic":false,"conf":"m"}
+{"i":613,"s":1884,"e":1893,"lane":"n-america","series":null,"topic":"Grover Cleveland scandal","thematic":false,"conf":"h"}
+{"i":614,"s":-700,"e":-700,"lane":"s-europe","series":"Greek Myths","topic":"Zeus and Hesiod","thematic":false,"conf":"m"}
+{"i":615,"s":-430,"e":-429,"lane":"s-europe","series":"Greek Myths","topic":"Oedipus and Sophocles","thematic":false,"conf":"m"}
+{"i":616,"s":-405,"e":-405,"lane":"s-europe","series":"Greek Myths","topic":"Dionysus and the Bacchae","thematic":false,"conf":"m"}
+{"i":617,"s":-1300,"e":-700,"lane":"s-europe","series":"Greek Myths","topic":"Jason and the Golden Fleece","thematic":false,"conf":"m"}
+{"i":618,"s":1968,"e":1968,"lane":"british-isles","series":null,"topic":"Enoch Powell Rivers of Blood","thematic":false,"conf":"h"}
+{"i":619,"s":1765,"e":1815,"lane":"british-isles","series":null,"topic":"Emma, Lady Hamilton","thematic":false,"conf":"h"}
+{"i":620,"s":1798,"e":1799,"lane":"s-europe","series":"Nelson","topic":"Nelson in Naples","thematic":false,"conf":"h"}
+{"i":621,"s":1800,"e":1801,"lane":"british-isles","series":"Nelson","topic":"Nelson returns home","thematic":false,"conf":"h"}
+{"i":622,"s":1801,"e":1801,"lane":"c-n-europe","series":"Nelson","topic":"Battle of Copenhagen","thematic":false,"conf":"h"}
+{"i":623,"s":1801,"e":1802,"lane":"w-europe","series":"Nelson","topic":"Boulogne attack and Amiens","thematic":false,"conf":"h"}
+{"i":624,"s":1803,"e":1805,"lane":"w-europe","series":"Nelson","topic":"Chase of Franco-Spanish fleet","thematic":false,"conf":"h"}
+{"i":625,"s":1805,"e":1805,"lane":"w-europe","series":"Nelson","topic":"Battle of Trafalgar","thematic":false,"conf":"h"}
+{"i":626,"s":1901,"e":1966,"lane":"n-america","series":"Disney","topic":"Walt Disney's life","thematic":false,"conf":"h"}
+{"i":627,"s":1940,"e":1955,"lane":"n-america","series":"Disney","topic":"Disneyland and theme parks","thematic":false,"conf":"m"}
+{"i":628,"s":1923,"e":2025,"lane":"n-america","series":"Disney","topic":"Disney legacy with Bob Iger","thematic":true,"conf":"m"}
+{"i":629,"s":1533,"e":1536,"lane":"british-isles","series":"Elizabeth I","topic":"Elizabeth's birth and Anne Boleyn","thematic":false,"conf":"h"}
+{"i":630,"s":1536,"e":1553,"lane":"british-isles","series":"Elizabeth I","topic":"Elizabeth's childhood after Boleyn","thematic":false,"conf":"h"}
+{"i":631,"s":1553,"e":1558,"lane":"british-isles","series":"Elizabeth I","topic":"Elizabeth under Mary I","thematic":false,"conf":"h"}
+{"i":632,"s":1558,"e":1560,"lane":"british-isles","series":"Elizabeth I","topic":"Elizabeth's accession","thematic":false,"conf":"h"}
+{"i":633,"s":1939,"e":1940,"lane":"c-n-europe","series":"The Nazis at War","topic":"Hitler's early WWII moves","thematic":false,"conf":"h"}
+{"i":634,"s":1940,"e":1940,"lane":"c-n-europe","series":"The Nazis at War","topic":"Norway, Denmark and Blitzkrieg","thematic":false,"conf":"h"}
+{"i":635,"s":1940,"e":1940,"lane":"w-europe","series":"The Nazis at War","topic":"Dunkirk and fall of France","thematic":false,"conf":"h"}
+{"i":636,"s":1957,"e":1966,"lane":"british-isles","series":"The Beatles","topic":"Beatles rise","thematic":false,"conf":"h"}
+{"i":637,"s":1940,"e":1940,"lane":"british-isles","series":"The Nazis at War","topic":"Battle of Britain","thematic":false,"conf":"h"}
+{"i":638,"s":1888,"e":1888,"lane":"british-isles","series":"Jack the Ripper","topic":"Ripper's first victim","thematic":false,"conf":"h"}
+{"i":639,"s":1966,"e":1970,"lane":"british-isles","series":"The Beatles","topic":"Beatles later years and breakup","thematic":false,"conf":"h"}
+{"i":640,"s":1888,"e":1888,"lane":"british-isles","series":"Jack the Ripper","topic":"Whitechapel murders","thematic":false,"conf":"h"}
+{"i":641,"s":1888,"e":1888,"lane":"british-isles","series":"Jack the Ripper","topic":"Double event murders","thematic":false,"conf":"h"}
+{"i":642,"s":1888,"e":1888,"lane":"british-isles","series":"Jack the Ripper","topic":"Mary Jane Kelly murder","thematic":false,"conf":"h"}
+{"i":643,"s":1888,"e":1891,"lane":"british-isles","series":"Jack the Ripper","topic":"Ripper suspects","thematic":false,"conf":"h"}
+{"i":644,"s":1914,"e":1914,"lane":"w-europe","series":null,"topic":"WWI Christmas Truce","thematic":false,"conf":"h"}
+{"i":645,"s":1840,"e":1893,"lane":"e-europe","series":null,"topic":"Tchaikovsky's life","thematic":false,"conf":"h"}
+{"i":646,"s":1813,"e":1883,"lane":"c-n-europe","series":null,"topic":"Richard Wagner","thematic":false,"conf":"h"}
+{"i":647,"s":1412,"e":1429,"lane":"w-europe","series":"Joan of Arc","topic":"Joan's origins and visions","thematic":false,"conf":"h"}
+{"i":648,"s":1429,"e":1429,"lane":"w-europe","series":"Joan of Arc","topic":"Joan meets the Dauphin, Orleans","thematic":false,"conf":"h"}
+{"i":649,"s":1429,"e":1430,"lane":"w-europe","series":"Joan of Arc","topic":"Reims coronation and capture","thematic":false,"conf":"h"}
+{"i":650,"s":1430,"e":1431,"lane":"w-europe","series":"Joan of Arc","topic":"Joan's trial and burning","thematic":false,"conf":"h"}
+{"i":651,"s":1953,"e":1978,"lane":"mideast","series":"Revolution in Iran","topic":"Shah and Khomeini","thematic":false,"conf":"h"}
+{"i":652,"s":1978,"e":1979,"lane":"mideast","series":"Revolution in Iran","topic":"Fall of the Shah","thematic":false,"conf":"h"}
+{"i":653,"s":1979,"e":1979,"lane":"mideast","series":"Revolution in Iran","topic":"US embassy seizure","thematic":false,"conf":"h"}
+{"i":654,"s":1979,"e":1981,"lane":"mideast","series":"Revolution in Iran","topic":"Hostage crisis resolution","thematic":false,"conf":"h"}
+{"i":655,"s":-216,"e":-212,"lane":"s-europe","series":"Rome's Greatest Enemy","topic":"After Cannae","thematic":false,"conf":"h"}
+{"i":656,"s":-212,"e":-206,"lane":"w-europe","series":"Rome's Greatest Enemy","topic":"Scipio in Spain","thematic":false,"conf":"h"}
+{"i":657,"s":-205,"e":-202,"lane":"n-africa","series":"Rome's Greatest Enemy","topic":"Scipio, Hannibal and Zama","thematic":false,"conf":"h"}
+{"i":658,"s":-202,"e":-146,"lane":"n-africa","series":"Rome's Greatest Enemy","topic":"Third Punic War","thematic":false,"conf":"h"}
+{"i":659,"s":1524,"e":1532,"lane":"s-america","series":"The Fall of the Incas","topic":"Pizarro and Inca empire","thematic":false,"conf":"h"}
+{"i":660,"s":1532,"e":1532,"lane":"s-america","series":"The Fall of the Incas","topic":"Cajamarca massacre","thematic":false,"conf":"h"}
+{"i":661,"s":1532,"e":1533,"lane":"s-america","series":"The Fall of the Incas","topic":"Atahualpa's ransom and death","thematic":false,"conf":"h"}
+{"i":662,"s":1533,"e":1534,"lane":"s-america","series":"The Fall of the Incas","topic":"Spanish take Cusco","thematic":false,"conf":"h"}
+{"i":663,"s":1536,"e":1537,"lane":"s-america","series":"The Fall of the Incas","topic":"Manco's siege of Cusco","thematic":false,"conf":"h"}
+{"i":664,"s":1537,"e":1572,"lane":"s-america","series":"The Fall of the Incas","topic":"Almagro, Pizarro, last Incas","thematic":false,"conf":"h"}
+{"i":665,"s":1709,"e":1763,"lane":"british-isles","series":"London's Golden Age","topic":"Samuel Johnson's life","thematic":false,"conf":"h"}
+{"i":666,"s":1740,"e":1763,"lane":"british-isles","series":"London's Golden Age","topic":"Boswell in London","thematic":false,"conf":"h"}
+{"i":667,"s":1773,"e":1773,"lane":"british-isles","series":"London's Golden Age","topic":"Johnson and Boswell in Scotland","thematic":false,"conf":"h"}
+{"i":668,"s":1780,"e":1784,"lane":"british-isles","series":"London's Golden Age","topic":"Johnson's final years","thematic":false,"conf":"h"}
+{"i":669,"s":1865,"e":1866,"lane":"n-america","series":"The Ku Klux Klan","topic":"Klan origins","thematic":false,"conf":"h"}
+{"i":670,"s":1866,"e":1872,"lane":"n-america","series":"The Ku Klux Klan","topic":"First Klan during Reconstruction","thematic":false,"conf":"h"}
+{"i":671,"s":1915,"e":1924,"lane":"n-america","series":"The Ku Klux Klan","topic":"Second Klan rises","thematic":false,"conf":"h"}
+{"i":672,"s":1920,"e":1930,"lane":"n-america","series":"The Ku Klux Klan","topic":"Klan in 1920s politics","thematic":false,"conf":"m"}
+{"i":673,"s":1156,"e":1160,"lane":"e-asia","series":"Dawn of the Samurai","topic":"Hogen and Heiji rebellions","thematic":false,"conf":"m"}
+{"i":674,"s":1180,"e":1180,"lane":"e-asia","series":"Dawn of the Samurai","topic":"Battle of Uji Bridge","thematic":false,"conf":"m"}
+{"i":675,"s":1184,"e":1185,"lane":"e-asia","series":"Dawn of the Samurai","topic":"Yoshitsune and Genpei War","thematic":false,"conf":"h"}
+{"i":676,"s":1185,"e":1192,"lane":"e-asia","series":"Dawn of the Samurai","topic":"Rise of the shogun","thematic":false,"conf":"h"}
+{"i":677,"s":1970,"e":1975,"lane":"british-isles","series":"Britain in the 70s","topic":"Rise of Thatcher","thematic":false,"conf":"h"}
+{"i":678,"s":1975,"e":1975,"lane":"british-isles","series":"Britain in the 70s","topic":"1975 EEC referendum","thematic":false,"conf":"h"}
+{"i":679,"s":1975,"e":1976,"lane":"british-isles","series":"Britain in the 70s","topic":"Wilson's resignation, crisis","thematic":false,"conf":"h"}
+{"i":680,"s":1976,"e":1976,"lane":"british-isles","series":"Britain in the 70s","topic":"IMF bailout 1976","thematic":false,"conf":"h"}
+{"i":681,"s":-6000,"e":1976,"lane":"global","series":null,"topic":"History of wine","thematic":true,"conf":"m"}
+{"i":682,"s":1503,"e":1519,"lane":"s-europe","series":null,"topic":"Mona Lisa and Leonardo","thematic":false,"conf":"h"}
+{"i":683,"s":-499,"e":-490,"lane":"s-europe","series":"Greece vs Persia","topic":"Persian invasion of Greece","thematic":false,"conf":"h"}
+{"i":684,"s":-490,"e":-490,"lane":"s-europe","series":"Greece vs Persia","topic":"Battle of Marathon","thematic":false,"conf":"h"}
+{"i":685,"s":1942,"e":1970,"lane":"british-isles","series":null,"topic":"Paul McCartney interview","thematic":false,"conf":"m"}
+{"i":686,"s":1915,"e":1915,"lane":"w-europe","series":"The First World War (1915)","topic":"Trench warfare 1915","thematic":false,"conf":"h"}
+{"i":687,"s":1100,"e":1154,"lane":"british-isles","series":null,"topic":"Empress Matilda and the Anarchy","thematic":false,"conf":"h"}
+{"i":688,"s":1915,"e":1917,"lane":"s-europe","series":"The First World War (1915)","topic":"Italian front","thematic":false,"conf":"h"}
+{"i":689,"s":1915,"e":1915,"lane":"global","series":"The First World War (1915)","topic":"Lusitania sinking","thematic":false,"conf":"h"}
+{"i":690,"s":1914,"e":1915,"lane":"w-europe","series":"The First World War (1915)","topic":"Edith Cavell","thematic":false,"conf":"h"}
+{"i":691,"s":1915,"e":1915,"lane":"mideast","series":"The First World War (1915)","topic":"Gallipoli landings","thematic":false,"conf":"h"}
+{"i":692,"s":1915,"e":1916,"lane":"mideast","series":"The First World War (1915)","topic":"Gallipoli evacuation","thematic":false,"conf":"h"}
+{"i":693,"s":1814,"e":1814,"lane":"n-america","series":"National Anthems","topic":"Star-Spangled Banner","thematic":false,"conf":"h"}
+{"i":694,"s":1745,"e":1815,"lane":"british-isles","series":"National Anthems","topic":"God Save the King","thematic":false,"conf":"m"}
+{"i":695,"s":1797,"e":1990,"lane":"c-n-europe","series":"National Anthems","topic":"German national anthem","thematic":false,"conf":"m"}
+{"i":696,"s":1934,"e":1934,"lane":"s-europe","series":null,"topic":"Mussolini's 1934 World Cup","thematic":false,"conf":"h"}
+{"i":697,"s":1568,"e":1648,"lane":"w-europe","series":"National Anthems","topic":"Dutch Revolt and Wilhelmus","thematic":false,"conf":"h"}
+{"i":698,"s":1807,"e":1831,"lane":"s-america","series":"National Anthems","topic":"Brazilian empire and anthem","thematic":false,"conf":"m"}
+{"i":699,"s":1948,"e":1995,"lane":"sub-africa","series":"National Anthems","topic":"Mandela and 1995 Rugby World Cup","thematic":false,"conf":"h"}
+{"i":700,"s":1732,"e":1783,"lane":"n-america","series":"Founding Fathers","topic":"George Washington","thematic":false,"conf":"h"}
+{"i":701,"s":1706,"e":1790,"lane":"n-america","series":"Founding Fathers","topic":"Benjamin Franklin","thematic":false,"conf":"h"}
+{"i":702,"s":1755,"e":1804,"lane":"n-america","series":"Founding Fathers","topic":"Alexander Hamilton","thematic":false,"conf":"h"}
+{"i":703,"s":1743,"e":1826,"lane":"n-america","series":"Founding Fathers","topic":"Thomas Jefferson","thematic":false,"conf":"h"}
+{"i":704,"s":-1180,"e":-1180,"lane":"s-europe","series":"The Odyssey","topic":"Odysseus and Trojan Horse","thematic":false,"conf":"m"}
+{"i":705,"s":-1180,"e":-1170,"lane":"s-europe","series":"The Odyssey","topic":"Odysseus's return to Ithaca","thematic":false,"conf":"m"}
+{"i":706,"s":1881,"e":1889,"lane":"c-n-europe","series":"A Murderous Affair","topic":"Crown Prince Rudolf's Vienna","thematic":false,"conf":"h"}
+{"i":707,"s":1889,"e":1889,"lane":"c-n-europe","series":"A Murderous Affair","topic":"Mayerling Incident","thematic":false,"conf":"h"}
+{"i":708,"s":1569,"e":1570,"lane":"british-isles","series":"Elizabeth I vs The Catholics","topic":"Cecil's spy network","thematic":false,"conf":"h"}
+{"i":709,"s":1572,"e":1572,"lane":"w-europe","series":"Elizabeth I vs The Catholics","topic":"St Bartholomew's Day Massacre","thematic":false,"conf":"h"}
+{"i":710,"s":1577,"e":1580,"lane":"british-isles","series":"Elizabeth I vs The Catholics","topic":"Francis Drake","thematic":false,"conf":"h"}
+{"i":711,"s":1580,"e":1584,"lane":"british-isles","series":"Elizabeth I vs The Catholics","topic":"Catholic plots against Elizabeth","thematic":false,"conf":"h"}
+{"i":712,"s":1585,"e":1585,"lane":"british-isles","series":"Elizabeth I vs The Catholics","topic":"Sidney and Spanish threat","thematic":false,"conf":"h"}
+{"i":713,"s":1586,"e":1587,"lane":"british-isles","series":"Elizabeth I vs The Catholics","topic":"Babington Plot, Mary executed","thematic":false,"conf":"h"}
+{"i":714,"s":1960,"e":1969,"lane":"british-isles","series":"The Troubles","topic":"Origins of the Troubles","thematic":false,"conf":"h"}
+{"i":715,"s":1969,"e":1969,"lane":"british-isles","series":"The Troubles","topic":"1969 Ulster violence","thematic":false,"conf":"h"}
+{"i":716,"s":1970,"e":1971,"lane":"british-isles","series":"The Troubles","topic":"Provisional IRA returns","thematic":false,"conf":"h"}
+{"i":717,"s":1972,"e":1972,"lane":"british-isles","series":"The Troubles","topic":"Bloody Sunday","thematic":false,"conf":"h"}
+{"i":718,"s":-120,"e":-104,"lane":"s-europe","series":"Roman Civil War","topic":"Gaius Marius rises","thematic":false,"conf":"h"}
+{"i":719,"s":-105,"e":-90,"lane":"s-europe","series":"Roman Civil War","topic":"Sulla and the Cimbri","thematic":false,"conf":"m"}
+{"i":720,"s":-88,"e":-87,"lane":"s-europe","series":"Roman Civil War","topic":"Sulla marches on Rome","thematic":false,"conf":"h"}
+{"i":721,"s":-87,"e":-78,"lane":"s-europe","series":"Roman Civil War","topic":"Sulla becomes dictator","thematic":false,"conf":"h"}
+{"i":722,"s":1860,"e":1867,"lane":"sub-africa","series":"Queen Victoria's Revenge","topic":"Tewodros II and hostages","thematic":false,"conf":"h"}
+{"i":723,"s":1868,"e":1868,"lane":"sub-africa","series":"Queen Victoria's Revenge","topic":"Magdala expedition","thematic":false,"conf":"h"}
+{"i":724,"s":1793,"e":1793,"lane":"w-europe","series":"The Terror","topic":"Marat's murder, Terror begins","thematic":false,"conf":"h"}
+{"i":725,"s":1758,"e":1793,"lane":"w-europe","series":"The Terror","topic":"Robespierre's rise","thematic":false,"conf":"h"}
+{"i":726,"s":1793,"e":1793,"lane":"w-europe","series":"The Terror","topic":"Marie Antoinette executed","thematic":false,"conf":"h"}
+{"i":727,"s":1794,"e":1794,"lane":"w-europe","series":"The Terror","topic":"Danton's fall","thematic":false,"conf":"h"}
+{"i":728,"s":1794,"e":1794,"lane":"w-europe","series":"The Terror","topic":"Festival of Supreme Being","thematic":false,"conf":"h"}
+{"i":729,"s":1794,"e":1794,"lane":"w-europe","series":"The Terror","topic":"Fall of Robespierre","thematic":false,"conf":"h"}
+{"i":730,"s":450,"e":1485,"lane":"british-isles","series":"King Arthur","topic":"Arthurian legend origins","thematic":false,"conf":"m"}
+{"i":731,"s":1100,"e":1200,"lane":"british-isles","series":"King Arthur","topic":"Lancelot and Round Table","thematic":false,"conf":"m"}
+{"i":732,"s":450,"e":1136,"lane":"british-isles","series":"King Arthur","topic":"Merlin and Geoffrey of Monmouth","thematic":false,"conf":"m"}
+{"i":733,"s":410,"e":540,"lane":"british-isles","series":"King Arthur","topic":"Historical Arthur","thematic":false,"conf":"m"}
+{"i":734,"s":1952,"e":1956,"lane":"n-africa","series":"The Suez Crisis","topic":"Nasser and Eden, Suez origins","thematic":false,"conf":"h"}
+{"i":735,"s":1956,"e":1956,"lane":"n-africa","series":"The Suez Crisis","topic":"Suez invasion","thematic":false,"conf":"h"}
+{"i":736,"s":1953,"e":1956,"lane":"e-europe","series":"Revolution in the Soviet Empire","topic":"Hungarian Uprising 1956","thematic":false,"conf":"h"}
+{"i":737,"s":1956,"e":1956,"lane":"e-europe","series":"Revolution in the Soviet Empire","topic":"Soviet crushing of Hungary","thematic":false,"conf":"h"}
+{"i":738,"s":1853,"e":1854,"lane":"e-europe","series":"The Charge of the Light Brigade","topic":"Outbreak of Crimean War","thematic":false,"conf":"h"}
+{"i":739,"s":1854,"e":1854,"lane":"e-europe","series":"The Charge of the Light Brigade","topic":"Siege of Silistria","thematic":false,"conf":"h"}
